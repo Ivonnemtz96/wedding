@@ -5,7 +5,7 @@
 ?>
 
 <body>
-    <div class="page-wrapper flower-fixed-body">
+    <div class="page-wrapper">
 
 
         <?php

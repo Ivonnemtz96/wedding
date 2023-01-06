@@ -24,15 +24,15 @@
         </div>
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-1.jpg"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-1.jpg"></div>
             </div>
 
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-2.jpg"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-2.jpg"></div>
             </div>
 
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-3.jpg"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-3.jpg"></div>
             </div><!-- end swiper-slide -->
         </div>
         <!-- end swiper-wrapper -->
@@ -87,7 +87,7 @@
                 <div class="couple-area">
                     <div class="couple-row clearfix">
                         <div class="img-holder">
-                            <img src="assets/images/couple/img-1.jpg" alt>
+                            <img src="/assets/images/couple/img-1.jpg" alt>
                         </div>
                         <div class="details">
                             <div class="inner">
@@ -124,7 +124,7 @@
                             </div>
                         </div>
                         <div class="img-holder">
-                            <img src="assets/images/couple/img-2.jpg" alt>
+                            <img src="/assets/images/couple/img-2.jpg" alt>
                         </div>
                     </div>
                 </div>
@@ -159,12 +159,12 @@
                                     Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.</p>
                             </div>
                             <div class="img-holder">
-                                <img src="assets/images/story/img-1.png" alt>
+                                <img src="/assets/images/story/img-1.png" alt>
                             </div>
                         </li>
                         <li>
                             <div class="img-holder">
-                                <img src="assets/images/story/img-2.png" alt>
+                                <img src="/assets/images/story/img-2.png" alt>
                             </div>
                             <div class="details">
                                 <h3>First date</h3>
@@ -181,12 +181,12 @@
                                     Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.</p>
                             </div>
                             <div class="img-holder">
-                                <img src="assets/images/story/img-3.png" alt>
+                                <img src="/assets/images/story/img-3.png" alt>
                             </div>
                         </li>
                         <li>
                             <div class="img-holder">
-                                <img src="assets/images/story/img-4.png" alt>
+                                <img src="/assets/images/story/img-4.png" alt>
                             </div>
                             <div class="details">
                                 <h3>Engagement</h3>
@@ -221,39 +221,39 @@
             <div class="col col-xs-12">
                 <div class="gallery-container gallery-fancybox masonry-gallery">
                     <div class="grid grid-item">
-                        <a href="assets/images/gallery/img-1.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="assets/images/gallery/img-1.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-1.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-1.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item">
-                        <a href="assets/images/gallery/img-2.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="assets/images/gallery/img-2.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-2.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-2.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item">
-                        <a href="assets/images/gallery/img-3.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="assets/images/gallery/img-3.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-3.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-3.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item">
-                        <a href="assets/images/gallery/img-4.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="assets/images/gallery/img-4.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-4.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-4.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item width2">
-                        <a href="assets/images/gallery/img-5.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="assets/images/gallery/img-5.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-5.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-5.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item width2">
-                        <a href="assets/images/gallery/img-7.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="assets/images/gallery/img-7.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-7.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-7.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item width2">
                         <a href="https://www.youtube.com/embed/XSGBVzeBUbk?autoplay=1" data-type="iframe"
                             class="video-play-btn">
-                            <img src="assets/images/gallery/img-6.jpg" alt class="img img-responsive">
+                            <img src="/assets/images/gallery/img-6.jpg" alt class="img img-responsive">
                             <i class="ti-control-play"></i>
                         </a>
                     </div>
@@ -374,28 +374,28 @@
                 <h2>Gift Registry</h2>
                 <div class="partner-grids clearfix">
                     <div class="grid">
-                        <img src="assets/images/partners/img-1.jpg" alt>
+                        <img src="/assets/images/partners/img-1.jpg" alt>
                     </div>
                     <div class="grid">
-                        <img src="assets/images/partners/img-2.jpg" alt>
+                        <img src="/assets/images/partners/img-2.jpg" alt>
                     </div>
                     <div class="grid">
-                        <img src="assets/images/partners/img-3.jpg" alt>
+                        <img src="/assets/images/partners/img-3.jpg" alt>
                     </div>
                     <div class="grid">
-                        <img src="assets/images/partners/img-4.jpg" alt>
+                        <img src="/assets/images/partners/img-4.jpg" alt>
                     </div>
                     <div class="grid">
-                        <img src="assets/images/partners/img-5.jpg" alt>
+                        <img src="/assets/images/partners/img-5.jpg" alt>
                     </div>
                     <div class="grid">
-                        <img src="assets/images/partners/img-6.jpg" alt>
+                        <img src="/assets/images/partners/img-6.jpg" alt>
                     </div>
                     <div class="grid">
-                        <img src="assets/images/partners/img-7.jpg" alt>
+                        <img src="/assets/images/partners/img-7.jpg" alt>
                     </div>
                     <div class="grid">
-                        <img src="assets/images/partners/img-8.jpg" alt>
+                        <img src="/assets/images/partners/img-8.jpg" alt>
                     </div>
                 </div>
             </div>
@@ -422,7 +422,7 @@
                 <div class="blog-grids clearfix">
                     <div class="grid">
                         <div class="entry-media">
-                            <img src="assets/images/blog/img-1.jpg" alt>
+                            <img src="/assets/images/blog/img-1.jpg" alt>
                         </div>
                         <div class="details">
                             <h3><a href="#">Hundreds of designs for every wedding style</a></h3>
@@ -431,7 +431,7 @@
                     </div>
                     <div class="grid">
                         <div class="entry-media">
-                            <img src="assets/images/blog/img-2.jpg" alt>
+                            <img src="/assets/images/blog/img-2.jpg" alt>
                         </div>
                         <div class="details">
                             <h3><a href="#">How to plan a perfect wedding in moments</a></h3>
@@ -440,7 +440,7 @@
                     </div>
                     <div class="grid">
                         <div class="entry-media">
-                            <img src="assets/images/blog/img-3.jpg" alt>
+                            <img src="/assets/images/blog/img-3.jpg" alt>
                         </div>
                         <div class="details">
                             <h3><a href="#">Possible no matter where you are on your journey</a></h3>

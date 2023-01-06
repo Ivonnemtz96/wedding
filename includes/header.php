@@ -6,8 +6,8 @@
                 <div class="col col-xs-12">
                     <div class="site-logo">
                         <a href="index.html">
-                            <h1>Dorian & Blit</h1>
-                            <span>Just Married</span>
+                            <h1>Logo</h1>
+                            <span>Making your day special</span>
                         </a>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
             <div id="navbar" class="navbar-collapse collapse navigation-holder">
                 <button class="close-navbar"><i class="ti-close"></i></button>
                 <ul class="nav navbar-nav">
-                    <li class="menu-item-has-children">
+                    <!-- <li class="menu-item-has-children">
                         <a href="#">Home</a>
                         <ul class="sub-menu">
                             <li><a href="index.html">Home announcement</a></li>
@@ -93,7 +93,10 @@
                             <li><a href="404.html">404</a></li>
                             <li><a href="faq.html">FAQ</a></li>
                         </ul>
-                    </li>
+                    </li> -->
+                    <li><a href="contact.html">Home</a></li>
+                    <li><a href="contact.html">Portfolio</a></li>
+                    <li><a href="contact.html">Gallery</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </div><!-- end of nav-collapse -->
