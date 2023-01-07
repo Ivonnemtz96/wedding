@@ -11,7 +11,7 @@
         <?php
         include("includes/preloader.php");
         include("includes/header.php");
-        include("modules/index.php");
+        include("modules/detalles.php");
         include("includes/footer.php");
 ?>
 

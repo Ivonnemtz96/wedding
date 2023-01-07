@@ -11,7 +11,7 @@
             <li><a href="#"><i class="ti-linkedin"></i></a></li>
             <li><a href="#"><i class="ti-pinterest"></i></a></li>
         </ul>
-        <p>Copyright 2019, Made with love by <a href="http://themeforest.net/user/blue_design">blue design</a></p>
+        <p>Copyright 2023 <strong>Weddings at Cabo</strong>, Made with love by <a href="http://banangroup.mx"><strong>Banana Group Marketing</strong></a></p>
     </div>
 </footer>
 <!-- end site-footer -->

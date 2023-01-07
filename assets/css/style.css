@@ -7633,3 +7633,252 @@ img {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.partner-carousel .carousel-control {
+  padding-top:30px;
+  width:80px;
+  font-size:3em;
+}
+#partner-carousel .well {
+  margin: 0;
+  padding: 0;
+  border: 0px solid transparent;
+  background-color: #fff;
+}
+#partner-carousel .thumbnail {
+  margin: 0;
+  padding: 0;
+  border: 0px solid transparent;
+  background-color: #fff;
+}
+
+.texto{
+position: relative;
+margin-top: -150px;
+background-color: #86a0b691;
+display: flex;
+z-index: 9999;
+}
+.servicio-nombre{
+  text-align: center;
+}
+.listas{
+  max-width: 580px;
+}
+
+.listas ul li{
+
+  border-bottom: 1px solid #ebebeb;
+  color: #002642;
+  display: flex;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: space-between;
+  padding: 5px 0;
+  position: relative;
+}
+.listas ul li span{
+  color: #848892;
+  flex-basis: 70%;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+
+
+
+/*Portfolio Styling*/
+#portfolio{
+  background-color: #fff;
+  padding: 50px;
+  /* -moz-box-shadow: inset 5px 5px 10px #483C32; /*firefox*/
+  /* -webkit-box-shadow: inset 5px 5px 10px #483C32; /*safari*/
+  /* box-shadow: inset 5px 5px 10px #483C32;  */
+}
+
+.portHeader {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  font-size: 2rem;
+  letter-spacing: 5px;
+  color: black;
+  margin-bottom: 0;
+}
+
+p {
+  margin: 0 auto 2rem;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  color: #444;
+  font-weight: 100;
+  width: 90%;
+}
+
+hr {
+  width: 80%;
+  margin-bottom: 30px;
+  border-top: 1px solid #483C32
+}
+
+.portfolio {
+  margin-top: 50px;
+  width: 90%;
+  margin: 50px auto;
+  max-width: 1100px;
+}
+
+.portfolioItem {
+  position: relative;
+  display: block;
+  width: 90%;
+  height: 200px;
+  margin: 0 auto 2rem;
+  background-color: lightblue;
+  border-radius: 10px;
+  box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  background-position: center top;
+  background-size: cover;
+  transition: all .4s ease;
+}
+
+/*for tablet*/
+@media  (min-width: 768px) and (max-width: 991px){
+  .portfolioItem {
+    display: inline-block;
+    width: 45%;
+    margin-left: 1.5em;
+  }
+}
+
+/*for mobile*/
+@media screen and (min-width: 992px) {
+  .portfolioItem {
+    display: inline-block;
+    width: 30%;
+    margin-left: 25px;
+  }
+}
+
+  /*adds overlay with link to codepen and hover effects*/
+.portOverlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  z-index: 10;
+}
+
+.portOverlay:after {
+  content: '';
+  width: 100%;
+  border-radius: 10px;
+  height: 100%;
+  background-color: #202020;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  z-index: -10;
+  left: 0;
+  -o-transition: all .3s ease; /*opera*/
+  -moz-transition: all .3s ease; /*mozilla*/
+  -webkit-transition: all .3s ease; /*safari*/
+  transition: all .3s ease;
+}
+
+.portTitle {
+  position: relative;
+  top: -200px;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  letter-spacing: 5px;
+  -o-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*opera*/
+  -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*mozilla*/
+  -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*safari*/
+  transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
+}
+
+.portDescription {
+  position: relative;
+  top: -200px;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  -o-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*opera*/
+  -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*mozilla*/
+  -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*safari*/
+  transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
+}
+
+.portLink {
+  position: relative;
+  /* display: block; */
+  /* width: 80%; */
+  top: 200px;
+  padding: 10px;
+  margin: 0 auto;
+  color: white;
+  letter-spacing: 3px;
+  text-decoration: none;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 3px;
+  font-size: 1em;
+  -o-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*opera*/
+  -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*mozilla*/
+  -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3); /*safari*/
+  transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
+}
+
+.portLink:hover {
+  background-color: white;
+  color: #202020;
+  text-decoration: none;
+}
+
+.portfolioItem:hover .portTitle {
+  top: 0;
+}
+
+.portfolioItem:hover .portDescription {
+  top: 0;
+}
+
+.portfolioItem:hover .portLink {
+  top: 0;
+}
+.portfolioItem:hover .portOverlay:after {
+  opacity: .75;
+}
+
+  /*add images to portfolio tiles*/
+.airplane {
+  background-image: url(/assets/images/gallery/img-4.jpg);
+}
+
+.driftwood {
+  background-image: url(/assets/images/gallery/img-4.jpg);
+}
+
+.nasa {
+  background-image: url(/assets/images/gallery/img-4.jpg);
+}
+
+.calc {
+  background-image: url(/assets/images/gallery/img-4.jpg);
+}
+
+.transitions {
+  background-image: url(/assets/images/gallery/img-4.jpg);
+}
+
+.welcome {
+  background-image: url(/assets/images/gallery/img-4.jpg);
+}

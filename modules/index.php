@@ -2,7 +2,7 @@
 <section class="hero-slider hero-style-1">
     <div class="swiper-container">
         <div class="slide-main-text">
-            <div class="container">
+            <!-- <div class="container">
                 <div class="slide-title">
                     <h2>Dorian & Blit</h2>
                 </div>
@@ -13,7 +13,7 @@
                 <div class="count-down-clock">
                     <div id="clock"></div>
                 </div>
-            </div>
+            </div> -->
             <div class="pattern">
                 <span></span>
                 <span></span>
@@ -45,6 +45,20 @@
 </section>
 <!-- end of hero slider -->
 
+<!-- start invitation-section -->
+<section class="invitation-section section-padding" style="padding-bottom: 0;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col col-xs-12">
+
+                <iframe style="border: none;" width="100%" height="500px"
+                    src="https://wedding.marketingenloscabos.com/carrucel/index.html">
+                </iframe>
+
+            </div>
+        </div>
+    </div> <!-- end container -->
+</section>
 
 <!-- start invitation-section -->
 <section class="invitation-section section-padding">
@@ -56,11 +70,12 @@
                     <div class="right-vec"></div>
                     <div class="inner">
                         <h2>Save the Date</h2>
-                        <span>For the wedding of</span>
-                        <h3>Dorian & Blit</h3>
-                        <p>Friday February 2020 At 6 O clock PM ,Hotle Seraton, Gulistan Bonani 9500, Dhaka Bangladesh
+                        <span>Lorem ipsum dolor sit.</span>
+                        <h3>Lorem, ipsum dolor.</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         </p>
-                        <a href="#rsvp" class="theme-btn" id="scroll">RSVP now</a>
+                        <a href="#" class="theme-btn" id="scroll">Contact now</a>
                     </div>
                 </div>
             </div>
@@ -77,8 +92,9 @@
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
                     <h2>Happy Couple</h2>
-                    <p>Recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady
-                        fitted out with a fur hat</p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque temporibus natus suscipit. Praesentium minus velit reiciendis officiis commodi voluptatem numquam!
+                    </p>
                 </div>
             </div>
         </div>
@@ -93,10 +109,7 @@
                             <div class="inner">
                                 <h2>Dorina Wiliam</h2>
                                 <h4>Hi Dear, I am Dorian Wiliam.</h4>
-                                <p>A collection of textile samples lay spread out on the table Samsa was a travelling
-                                    salesman and above it there hung a picture that he had recently cut out of an
-                                    illustrated magazine And housed in a nice, gilded frame. It showed a lady fitted out
-                                    with a fur hat and fur boa who sat upright</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos voluptates aut possimus velit repellendus rem labore, facere nulla, vitae impedit optio nemo ipsam exercitationem autem commodi vero excepturi? Magnam ducimus aliquam eos earum, natus explicabo maxime asperiores iusto obcaecati labore eum, perferendis quo veritatis cumque iste dolores impedit eveniet! Nihil.</p>
                                 <ul class="social-links">
                                     <li><a href="#"><i class="ti-facebook"></i></a></li>
                                     <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
@@ -111,10 +124,9 @@
                             <div class="inner">
                                 <h2>Blit Jhon</h2>
                                 <h4>Hi Dear, I am Blit Jhon.</h4>
-                                <p>A collection of textile samples lay spread out on the table Samsa was a travelling
-                                    salesman and above it there hung a picture that he had recently cut out of an
-                                    illustrated magazine And housed in a nice, gilded frame. It showed a lady fitted out
-                                    with a fur hat and fur boa who sat upright</p>
+                                <p>
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem ducimus architecto iusto odit! Neque, aliquid ut eaque fugit illum provident perspiciatis exercitationem magni dolores natus consectetur id. Adipisci minus delectus accusamus vero ullam laudantium, molestiae officiis ab, pariatur impedit fuga blanditiis libero id quaerat non aliquid hic minima? Ducimus, aliquam.
+                                </p>
                                 <ul class="social-links">
                                     <li><a href="#"><i class="ti-facebook"></i></a></li>
                                     <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
@@ -136,7 +148,7 @@
 
 
 <!-- start story-section -->
-<section class="story-section section-padding p-t-0">
+<section hidden class="story-section section-padding p-t-0">
     <div class="container">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
@@ -204,15 +216,18 @@
 <!-- end story-section -->
 
 
+
 <!-- start gallery-section -->
+
 <section class="gallery-section section-padding p-t-0">
     <div class="container">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
                     <h2>Captured Moments</h2>
-                    <p>Recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady
-                        fitted out with a fur hat</p>
+                    <p>
+                    The best moments captured in one single image
+                    </p>
                 </div>
             </div>
         </div>
@@ -272,9 +287,9 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2>Are you attending?</h2>
-                    <p>Recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady
-                        fitted out with a fur hat</p>
+                    <p>Let’s Meet</p>
+                    <h2>MAKE AN INQUIRY</h2>
+
                 </div>
             </div>
         </div>
@@ -330,32 +345,32 @@
 <!-- start event-section -->
 <section class="event-section section-padding p-t-0">
     <div class="top-area">
-        <h2>Celebrate Our Love</h2>
-        <p class="date">14 Feb 2020</p>
+        <h2>We help you make your dream come true</h2>
+        <!-- <p class="date">14 Feb 2023</p> -->
     </div>
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">
                 <div class="event-grids clearfix">
                     <div class="grid">
-                        <h3>The Reception</h3>
-                        <p>13 February, 2020 at 9AM - 11 AM Hotel seraton, Gusal Dhank, Bangladesh</p>
+                        <h3>Address</h3>
+                        <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cqabo San Lucas</p>
                         <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.672778464467!2d89.55846281543346!3d22.814585729793365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff901c9481c799%3A0x92f932dd6112f8ff!2sHotel+Sheraton+Buliding%2C+29+Khan+Jahan+Ali+Rd%2C+Khulna!5e0!3m2!1sen!2sbd!4v1558933503904!5m2!1sen!2sbd"
+                        <a href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7"
                             class="location popup-gmaps">See location</a>
                     </div>
                     <div class="grid">
-                        <h3>The Reception</h3>
-                        <p>13 February, 2020 at 9AM - 11 AM Hotel seraton, Gusal Dhank, Bangladesh</p>
+                        <h3>Address</h3>
+                        <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>San José del Cabo</p>
                         <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.672778464467!2d89.55846281543346!3d22.814585729793365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff901c9481c799%3A0x92f932dd6112f8ff!2sHotel+Sheraton+Buliding%2C+29+Khan+Jahan+Ali+Rd%2C+Khulna!5e0!3m2!1sen!2sbd!4v1558933503904!5m2!1sen!2sbd"
+                        <a href="https://goo.gl/maps/1RM9VWPJoKWroG7K6"
                             class="location popup-gmaps">See location</a>
                     </div>
                     <div class="grid">
-                        <h3>The Reception</h3>
-                        <p>13 February, 2020 at 9AM - 11 AM Hotel seraton, Gusal Dhank, Bangladesh</p>
+                        <h3>Address</h3>
+                        <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Puerto Paraíso</p>
                         <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.672778464467!2d89.55846281543346!3d22.814585729793365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff901c9481c799%3A0x92f932dd6112f8ff!2sHotel+Sheraton+Buliding%2C+29+Khan+Jahan+Ali+Rd%2C+Khulna!5e0!3m2!1sen!2sbd!4v1558933503904!5m2!1sen!2sbd"
+                        <a href="https://goo.gl/maps/iq5fYprjkEDCiTM69"
                             class="location popup-gmaps">See location</a>
                     </div>
                 </div>
@@ -371,7 +386,7 @@
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">
-                <h2>Gift Registry</h2>
+                <h2>Brands</h2>
                 <div class="partner-grids clearfix">
                     <div class="grid">
                         <img src="/assets/images/partners/img-1.jpg" alt>
@@ -406,7 +421,7 @@
 
 
 <!-- start blog-section -->
-<section class="blog-section section-padding">
+<section hidden class="blog-section section-padding">
     <div class="container">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">

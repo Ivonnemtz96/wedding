@@ -94,10 +94,10 @@
                             <li><a href="faq.html">FAQ</a></li>
                         </ul>
                     </li> -->
-                    <li><a href="contact.html">Home</a></li>
-                    <li><a href="contact.html">Portfolio</a></li>
-                    <li><a href="contact.html">Gallery</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/portafolio">Portfolio</a></li>
+                    <li><a href="/">Gallery</a></li>
+                    <li><a href="/">Contact</a></li>
                 </ul>
             </div><!-- end of nav-collapse -->
         </div><!-- end of container -->
