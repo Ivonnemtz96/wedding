@@ -45,7 +45,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img width="250px" src="/assets/images/couple/img-1.jpg" alt="">
+                        <img width="350px" src="/assets/images/couple/img-4.jpg" alt="">
                     </div>
                     <div class="col-md-12" style="margin-top: 3rem;">
                         <p>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img width="250px" src="/assets/images/couple/img-1.jpg" alt="">
+                        <img width="350px" src="/assets/images/couple/img-7.jpg" alt="">
                     </div>
                     <div class="col-md-12" style="margin-top: 3rem;">
                         <p>
@@ -125,7 +125,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img width="250px" src="/assets/images/couple/img-1.jpg" alt="">
+                        <img width="350px" src="/assets/images/couple/img-6.jpg" alt="">
                     </div>
                     <div class="col-md-12" style="margin-top: 3rem;">
                         <p>
