@@ -6,7 +6,7 @@
                 <div class="col col-xs-12">
                     <div class="site-logo">
                         <a href="index.html">
-                            <img width="180px" src="assets/images/logo.png" alt="">
+                            <img width="180px" src="/assets/images/logo.png" alt="">
                             <!-- <span>Making your day special</span> -->
                         </a>
                     </div>
@@ -96,8 +96,8 @@
                     </li> -->
                     <li><a href="/">Home</a></li>
                     <li><a href="/portafolio">Portfolio</a></li>
-                    <li><a href="/">Gallery</a></li>
-                    <li><a href="/">Contact</a></li>
+                    <li><a href="/#galeria">Gallery</a></li>
+                    <li><a href="/#contact">Contact</a></li>
                 </ul>
             </div><!-- end of nav-collapse -->
         </div><!-- end of container -->

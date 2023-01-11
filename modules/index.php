@@ -161,7 +161,7 @@
             <div class="col col-xs-12">
 
                 <iframe style="border: none;" width="100%" height="500px"
-                    src="https://wedding.marketingenloscabos.com/carrucel/index.html">
+                    src="https://weddings.bananagroup.mx/carrucel/index.html">
                 </iframe>
 
             </div>
@@ -200,8 +200,8 @@
 
 <!-- start gallery-section -->
 
-<section class="gallery-section section-padding p-t-0">
-    <div class="container">
+<section class="gallery-section section-padding p-t-0" >
+    <div class="container" >
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
@@ -214,7 +214,7 @@
         </div>
 
         <div class="row">
-            <div class="col col-xs-12">
+            <div class="col col-xs-12" id="galeria">
                 <div class="gallery-container gallery-fancybox masonry-gallery">
                     <div class="grid grid-item">
                         <a href="/assets/images/gallery/img-1.jpg" class="fancybox" data-fancybox-group="gall-1">
@@ -262,9 +262,48 @@
 <!-- end gallery-section -->
 
 
+<!-- start event-section -->
+<section class="event-section section-padding p-t-0">
+    <div class="top-area">
+        <h2>We help you make your dream come true</h2>
+        <!-- <p class="date">14 Feb 2023</p> -->
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col col-xs-12">
+                <div class="event-grids clearfix">
+                    <div class="grid">
+                        <h3>Address</h3>
+                        <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cabo San Lucas</p>
+                        <a href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
+                    </div>
+                    <div class="grid">
+                        <h3>Email</h3>
+                        <p>You can write to us at</p>
+                        <p>
+                            <a href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a>
+                            <br><br>
+                        </p>
+                    </div>
+                    <div class="grid">
+                        <h3>Phone</h3>
+                        <p>Contact us at</p>
+                        <p>
+                            <a href="tel:1234567890">1234567890</a>
+                            <br><br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- end container -->
+</section>
+<!-- end event-section -->
+
+
 <!-- start contact-section -->
 <section class="contact-section section-padding p-t-0" id="rsvp">
-    <div class="container">
+    <div class="container" id="contact">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
@@ -281,31 +320,54 @@
                         <div class="col col-sm-6">
                             <input type="text" name="name" class="form-control" placeholder="Your Name*">
                         </div>
+
+                        <div class="col col-sm-6">
+                            <input type="text" name="name" class="form-control" placeholder="Fiance/Business name*">
+                        </div>
+
+                        <div class="col col-sm-6">
+                            <input type="text" name="name" class="form-control" placeholder="Phone*">
+                        </div>
+
                         <div class="col col-sm-6">
                             <input type="email" name="email" class="form-control" placeholder="Your Email*">
                         </div>
-                        <div class="col col-sm-6">
-                            <select class="form-control" name="guest">
-                                <option disabled selected>Number Of Guest*</option>
-                                <option>1</option>
-                                <option>2</option>
-                                <option>3</option>
-                                <option>4</option>
-                            </select>
-                        </div>
+
+
                         <div class="col col-sm-6">
                             <select class="form-control" name="events">
-                                <option disabled selected>I Am Attending*</option>
-                                <option>Al events</option>
-                                <option>Wedding ceremony</option>
-                                <option>Reception party</option>
+                                <option disabled selected>Type of event*</option>
+                                <option>Symbolic Wedding</option>
+                                <option>Legal Wedding</option>
                             </select>
                         </div>
+
+                        <div class="col col-sm-6">
+                            <input type="text" name="email" class="form-control" placeholder="Preferred date*">
+                        </div>
+
+                        <div class="col col-sm-6">
+                            <input type="email" name="email" class="form-control" placeholder="Guest Count*">
+                        </div>
+
+                        <div class="col col-sm-6">
+                            <select class="form-control" name="events">
+                                <option disabled selected>Target Budget*</option>
+                                <option>$40,000 and over</option>
+                                <option>$30,000 and under</option>
+                                <option>$10,000 and under</option>
+                            </select>
+                        </div>
+
                         <div class="col col-sm-12">
-                            <textarea class="form-control" name="notes" placeholder="Your Message*"></textarea>
+                            <input type="email" name="email" class="form-control" placeholder="Desired Venue*">
+                        </div>
+
+                        <div class="col col-sm-12">
+                            <textarea class="form-control" name="notes" placeholder="Tell Us a little about your celebration*"></textarea>
                         </div>
                         <div class="col col-sm-12 submit-btn">
-                            <button type="submit" class="theme-btn">Send Invitation</button>
+                            <button type="submit" class="theme-btn">Send</button>
                             <div id="loader">
                                 <i class="ti-reload"></i>
                             </div>
@@ -321,128 +383,3 @@
     </div> <!-- end container -->
 </section>
 <!-- end contact-section -->
-
-
-<!-- start event-section -->
-<section class="event-section section-padding p-t-0">
-    <div class="top-area">
-        <h2>We help you make your dream come true</h2>
-        <!-- <p class="date">14 Feb 2023</p> -->
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col col-xs-12">
-                <div class="event-grids clearfix">
-                    <div class="grid">
-                        <h3>Address</h3>
-                        <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cqabo San Lucas</p>
-                        <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
-                    </div>
-                    <div class="grid">
-                        <h3>Address</h3>
-                        <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>San José del Cabo</p>
-                        <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://goo.gl/maps/1RM9VWPJoKWroG7K6" target="_blank">See location</a>
-                    </div>
-                    <div class="grid">
-                        <h3>Address</h3>
-                        <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Puerto Paraíso</p>
-                        <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://goo.gl/maps/iq5fYprjkEDCiTM69" target="_blank">See location</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- end container -->
-</section>
-<!-- end event-section -->
-
-
-<!-- start partners-section -->
-<section class="partners-section section-padding p-t-0">
-    <div class="container">
-        <div class="row">
-            <div class="col col-xs-12">
-                <h2>Brands</h2>
-                <div class="partner-grids clearfix">
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-1.jpg" alt>
-                    </div>
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-2.jpg" alt>
-                    </div>
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-3.jpg" alt>
-                    </div>
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-4.jpg" alt>
-                    </div>
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-5.jpg" alt>
-                    </div>
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-6.jpg" alt>
-                    </div>
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-7.jpg" alt>
-                    </div>
-                    <div class="grid">
-                        <img src="/assets/images/partners/img-8.jpg" alt>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- end container -->
-</section>
-<!-- end partners-section -->
-
-
-<!-- start blog-section -->
-<section hidden class="blog-section section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
-                    <h2>Latest form the blog</h2>
-                    <p>Recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady
-                        fitted out with a fur hat</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col col-xs-12">
-                <div class="blog-grids clearfix">
-                    <div class="grid">
-                        <div class="entry-media">
-                            <img src="/assets/images/blog/img-1.jpg" alt>
-                        </div>
-                        <div class="details">
-                            <h3><a href="#">Hundreds of designs for every wedding style</a></h3>
-                            <p class="date"><i class="ti-timer"></i> April 14, 2019</p>
-                        </div>
-                    </div>
-                    <div class="grid">
-                        <div class="entry-media">
-                            <img src="/assets/images/blog/img-2.jpg" alt>
-                        </div>
-                        <div class="details">
-                            <h3><a href="#">How to plan a perfect wedding in moments</a></h3>
-                            <p class="date"><i class="ti-timer"></i> April 14, 2019</p>
-                        </div>
-                    </div>
-                    <div class="grid">
-                        <div class="entry-media">
-                            <img src="/assets/images/blog/img-3.jpg" alt>
-                        </div>
-                        <div class="details">
-                            <h3><a href="#">Possible no matter where you are on your journey</a></h3>
-                            <p class="date"><i class="ti-timer"></i> April 14, 2019</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- end container -->
-</section>
-<!-- end blog-section -->
