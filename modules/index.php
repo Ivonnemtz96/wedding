@@ -357,21 +357,21 @@
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cqabo San Lucas</p>
                         <p class="phone">Ph: 0123456634654</p>
                         <a href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7"
-                            class="location popup-gmaps">See location</a>
+                            target="_blank">See location</a>
                     </div>
                     <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>San José del Cabo</p>
                         <p class="phone">Ph: 0123456634654</p>
                         <a href="https://goo.gl/maps/1RM9VWPJoKWroG7K6"
-                            class="location popup-gmaps">See location</a>
+                            target="_blank">See location</a>
                     </div>
                     <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Puerto Paraíso</p>
                         <p class="phone">Ph: 0123456634654</p>
                         <a href="https://goo.gl/maps/iq5fYprjkEDCiTM69"
-                            class="location popup-gmaps">See location</a>
+                            target="_blank">See location</a>
                     </div>
                 </div>
             </div>
