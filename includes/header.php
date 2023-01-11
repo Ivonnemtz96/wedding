@@ -1,13 +1,13 @@
 <!-- Start header -->
 <header id="header" class="site-header header-style-1">
-    <div class="topbar">
+    <div class="topbar" style="padding: 0;">
         <div class="container">
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="site-logo">
                         <a href="index.html">
-                            <h1>Logo</h1>
-                            <span>Making your day special</span>
+                            <img width="180px" src="assets/images/logo.png" alt="">
+                            <!-- <span>Making your day special</span> -->
                         </a>
                     </div>
                 </div>

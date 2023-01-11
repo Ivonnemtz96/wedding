@@ -1368,7 +1368,7 @@ img {
 .site-header #navbar > ul li a:hover,
 .site-header #navbar > ul li a:focus {
   text-decoration: none;
-  color: #b2c9d3 !important;
+  color: #b6b8a9 !important;
 }
 
 @media screen and (min-width: 992px) {
@@ -2341,13 +2341,13 @@ img {
   font-size: 12px;
   color: #000;
   opacity: 1;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(182, 184, 169, 0.4);
   margin: 0 6px !important;
 }
 
 .hero-slider .swiper-pagination-bullet-active {
   color: #fff;
-  background: #92b2c0;
+  background: #b6b8a9;
 }
 
 .swiper-container-horizontal > .swiper-pagination-bullets,

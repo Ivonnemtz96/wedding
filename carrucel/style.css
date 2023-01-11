@@ -4745,7 +4745,7 @@ static-hero-s4
   padding-bottom: 60px;
 }
 .wpo-service-section .wpo-service-item {
-  background: #edf3f8;
+  background: #b6b8a9;
   padding: 6px;
 }
 .wpo-service-section .wpo-service-item .wpo-service-img {
@@ -4773,7 +4773,7 @@ static-hero-s4
   transform: translateY(-50%);
   width: 30px;
   height: 2px;
-  background: #86a0b6;
+  background: #b6b8a9;
   content: "";
 }
 .wpo-service-section .wpo-service-item .wpo-service-img .wpo-service-text .s-icon:after {
@@ -4782,7 +4782,7 @@ static-hero-s4
 }
 .wpo-service-section .wpo-service-item .wpo-service-img .wpo-service-text .s-icon .fi:before {
   font-size: 30px;
-  color: #86a0b6;
+  color: #b6b8a9;
 }
 .wpo-service-section .wpo-service-item .wpo-service-img .wpo-service-text a {
   color: #002642;
