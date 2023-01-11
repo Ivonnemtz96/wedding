@@ -45,10 +45,119 @@
 </section>
 <!-- end of hero slider -->
 
+
+<!-- start services-section -->
+<section hidden class="services-section section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                <div class="section-title">
+                    <h2>About</h2>
+                    <p>
+                        Weddings at Cabo by Susana Flores, is a premier company based in Los
+                        Cabos that specializes in designing beautifully styled events. No matter
+                        what type of celebration you are planning, we can help you to create the
+                        best ambiance for you and your guests. <br>
+                        A night to be remembered as an unforgettable one!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div> <!-- end container -->
+</section>
+<!-- end services-section -->
+
+<!-- start couple-section -->
+<section class="couple-section section-padding p-t-4">
+    <div class="container">
+        <div class="row">
+            <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                <div class="section-title">
+                    <h2>Weddings at Cabo</h2>
+                    <!-- <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque temporibus natus suscipit.
+                        Praesentium minus velit reiciendis officiis commodi voluptatem numquam!
+                    </p> -->
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-lg-10 col-lg-offset-1">
+                <div class="couple-area">
+                    <div class="couple-row clearfix">
+                        <div class="img-holder">
+                            <img src="/assets/images/couple/img-1.jpg" alt>
+                        </div>
+                        <div class="details">
+                            <div class="inner">
+                                <h2 style="margin-top: 4rem;">About</h2>
+                                <!-- <h4>Hi Dear, I am Dorian Wiliam.</h4> -->
+                                <p>
+                                    Weddings at Cabo by Susana Flores, is a premier company based in Los
+                                    Cabos that specializes in designing beautifully styled events. No matter
+                                    what type of celebration you are planning, we can help you to create the
+                                    best ambiance for you and your guests. A night to be remembered as an
+                                    unforgettable one!
+                                </p>
+                                <ul class="social-links">
+                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
+                                    <li><a href="#"><i class="ti-instagram"></i></a></li>
+                                    <!-- <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                    <li><a href="#"><i class="ti-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="couple-row last-row clearfix">
+                        <div class="details">
+                            <div class="inner">
+                                <h2>Philosophy</h2>
+                                <!-- <h4>Hi Dear, I am Blit Jhon.</h4> -->
+                                <p>
+                                    Our philosophy is that we conceptualize, plan and produce your dream
+                                    ambiance. Whether your affair is intimate and simple, extravagant or
+                                    luxurious, we can create experiences that will last a lifetime.
+                                </p>
+                                <ul class="social-links">
+                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
+                                    <li><a href="#"><i class="ti-instagram"></i></a></li>
+                                    <!-- <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                    <li><a href="#"><i class="ti-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="img-holder">
+                            <img src="/assets/images/couple/img-2.jpg" alt>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- end container -->
+</section>
+<!-- end couple-section -->
+
 <!-- start invitation-section -->
-<section class="invitation-section section-padding" style="padding-bottom: 0;">
+<section class="invitation-section section-padding" style="padding: 0;">
     <div class="container-fluid">
         <div class="row">
+            <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                <div class="section-title">
+                    <h2>Services</h2>
+                    <p>
+                        A Weddings at Cabo event is a vision of beauty - not our vision, but YOUR vision. From the
+                        custom
+                        menu to the décor to the entertainment, our consultants work with you to achieve the event of
+                        your
+                        dreams. For us, the design is in the details, from your favorite china to your passion for food,
+                        the
+                        only limit is your imagination.
+                    </p>
+                </div>
+            </div>
+
             <div class="col col-xs-12">
 
                 <iframe style="border: none;" width="100%" height="500px"
@@ -85,135 +194,7 @@
 <!-- end invitation-section -->
 
 
-<!-- start couple-section -->
-<section class="couple-section section-padding p-t-0">
-    <div class="container">
-        <div class="row">
-            <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
-                    <h2>Happy Couple</h2>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque temporibus natus suscipit. Praesentium minus velit reiciendis officiis commodi voluptatem numquam!
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col col-lg-10 col-lg-offset-1">
-                <div class="couple-area">
-                    <div class="couple-row clearfix">
-                        <div class="img-holder">
-                            <img src="/assets/images/couple/img-1.jpg" alt>
-                        </div>
-                        <div class="details">
-                            <div class="inner">
-                                <h2>Dorina Wiliam</h2>
-                                <h4>Hi Dear, I am Dorian Wiliam.</h4>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos voluptates aut possimus velit repellendus rem labore, facere nulla, vitae impedit optio nemo ipsam exercitationem autem commodi vero excepturi? Magnam ducimus aliquam eos earum, natus explicabo maxime asperiores iusto obcaecati labore eum, perferendis quo veritatis cumque iste dolores impedit eveniet! Nihil.</p>
-                                <ul class="social-links">
-                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                    <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="ti-pinterest"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="couple-row last-row clearfix">
-                        <div class="details">
-                            <div class="inner">
-                                <h2>Blit Jhon</h2>
-                                <h4>Hi Dear, I am Blit Jhon.</h4>
-                                <p>
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem ducimus architecto iusto odit! Neque, aliquid ut eaque fugit illum provident perspiciatis exercitationem magni dolores natus consectetur id. Adipisci minus delectus accusamus vero ullam laudantium, molestiae officiis ab, pariatur impedit fuga blanditiis libero id quaerat non aliquid hic minima? Ducimus, aliquam.
-                                </p>
-                                <ul class="social-links">
-                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                    <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="ti-pinterest"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="img-holder">
-                            <img src="/assets/images/couple/img-2.jpg" alt>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- end container -->
-</section>
-<!-- end couple-section -->
 
-
-<!-- start story-section -->
-<section hidden class="story-section section-padding p-t-0">
-    <div class="container">
-        <div class="row">
-            <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
-                    <h2>Our story</h2>
-                    <p>Recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady
-                        fitted out with a fur hat</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col col-lg-10 col-lg-offset-1">
-                <div class="story-block">
-                    <ul>
-                        <li>
-                            <div class="details">
-                                <h3>First meet</h3>
-                                <span class="date">25 Dec 2018</span>
-                                <p>Luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
-                                    Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.</p>
-                            </div>
-                            <div class="img-holder">
-                                <img src="/assets/images/story/img-1.png" alt>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="img-holder">
-                                <img src="/assets/images/story/img-2.png" alt>
-                            </div>
-                            <div class="details">
-                                <h3>First date</h3>
-                                <span class="date">25 Dec 2018</span>
-                                <p>Luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
-                                    Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="details">
-                                <h3>Proposal</h3>
-                                <span class="date">25 Dec 2018</span>
-                                <p>Luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
-                                    Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.</p>
-                            </div>
-                            <div class="img-holder">
-                                <img src="/assets/images/story/img-3.png" alt>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="img-holder">
-                                <img src="/assets/images/story/img-4.png" alt>
-                            </div>
-                            <div class="details">
-                                <h3>Engagement</h3>
-                                <span class="date">25 Dec 2018</span>
-                                <p>Luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
-                                    Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div> <!-- end container -->
-</section>
-<!-- end story-section -->
 
 
 
@@ -226,7 +207,7 @@
                 <div class="section-title">
                     <h2>Captured Moments</h2>
                     <p>
-                    The best moments captured in one single image
+                        The best moments captured in one single image
                     </p>
                 </div>
             </div>
@@ -356,22 +337,19 @@
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cqabo San Lucas</p>
                         <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7"
-                            target="_blank">See location</a>
+                        <a href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
                     </div>
                     <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>San José del Cabo</p>
                         <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://goo.gl/maps/1RM9VWPJoKWroG7K6"
-                            target="_blank">See location</a>
+                        <a href="https://goo.gl/maps/1RM9VWPJoKWroG7K6" target="_blank">See location</a>
                     </div>
                     <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Puerto Paraíso</p>
                         <p class="phone">Ph: 0123456634654</p>
-                        <a href="https://goo.gl/maps/iq5fYprjkEDCiTM69"
-                            target="_blank">See location</a>
+                        <a href="https://goo.gl/maps/iq5fYprjkEDCiTM69" target="_blank">See location</a>
                     </div>
                 </div>
             </div>
