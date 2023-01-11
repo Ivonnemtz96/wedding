@@ -246,13 +246,20 @@
                             <img src="/assets/images/gallery/img-7.jpg" alt class="img img-responsive">
                         </a>
                     </div>
+
                     <div class="grid grid-item width2">
+                        <a href="/assets/images/gallery/img-6.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-6.jpg" alt class="img img-responsive">
+                        </a>
+                    </div>
+
+                    <!-- <div class="grid grid-item width2">
                         <a href="https://www.youtube.com/embed/XSGBVzeBUbk?autoplay=1" data-type="iframe"
                             class="video-play-btn">
                             <img src="/assets/images/gallery/img-6.jpg" alt class="img img-responsive">
                             <i class="ti-control-play"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div> <!-- end row -->
