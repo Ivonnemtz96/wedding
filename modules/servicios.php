@@ -37,7 +37,7 @@
         </div>
         <div class="row justify-content-center" style="align-items: center;">
 
-            <div class="col col-md-12" style="margin-top: 2rem;" id="catering">
+            <div hidden class="col col-md-12" style="margin-top: 2rem;" id="catering">
                 <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                     <div class="section-title">
                         <h2>Catering</h2>
