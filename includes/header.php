@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="site-logo">
-                        <a href="index.html">
+                        <a href="/">
                             <img width="180px" src="/assets/images/logo.png" alt="">
                             <!-- <span>Making your day special</span> -->
                         </a>
