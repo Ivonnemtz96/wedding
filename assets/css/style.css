@@ -8251,22 +8251,38 @@ hr {
   width: 100%;
 }
 
-h2 span {
+h2 span a {
   color: white;
-  font: bold 24px/45px Helvetica, Sans-Serif;
+  /* font: bold 24px/45px; */
+  font-size: 23px;
+  font-family: "aphroditeslimtextregular";
   letter-spacing: -1px;
   background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.5);
   padding: 10px;
+}
+
+h2 span a:hover{
+  color: #b6b8a9;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   #caption {
     text-align: justify;
     position: absolute;
-    top: 224px;
+    top: 120px;
     left: 0;
     width: 100%;
+  }
+  h2 span a {
+    color: white;
+    /* font: bold 24px/45px; */
+    font-size: 12px;
+    font-family: "aphroditeslimtextregular";
+    letter-spacing: -1px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
   }
 }
 
@@ -8274,8 +8290,18 @@ h2 span {
   #caption {
     text-align: justify;
     position: absolute;
-    top: 80px;
+    top: 60px;
     left: 0;
     width: 100%;
+  }
+  h2 span a {
+    color: white;
+    /* font: bold 24px/45px; */
+    font-size: 12px;
+    font-family: "aphroditeslimtextregular";
+    letter-spacing: -1px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
   }
 }
