@@ -179,12 +179,12 @@
                     <div class="right-vec"></div>
                     <div class="inner">
                         <h2>Save the Date</h2>
-                        <span>Lorem ipsum dolor sit.</span>
-                        <h3>Lorem, ipsum dolor.</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        <span>This is your time to eat, drink, and be married!.</span>
+                        <h3>Planning and Management</h3>
+                        <p style="text-transform: none;">
+                        While you enjoy the festivities, we will take care of the details.
                         </p>
-                        <a href="#" class="theme-btn" id="scroll">Contact now</a>
+                        <a href="/#contact" class="theme-btn" id="scroll">Contact now</a>
                     </div>
                 </div>
             </div>
