@@ -294,11 +294,11 @@ img {
 
 /*** back to top **/
 .back-to-top {
-  background-color: rgba(178, 201, 211, 0.7);
+  background-color: rgba(182, 184, 169, 0.7);
   width: 45px;
   height: 45px;
   line-height: 45px;
-  border: 2px solid #b2c9d3;
+  border: 2px solid #b6b8a9;
   border-radius: 45px;
   text-align: center;
   display: none;
