@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
-                        <h2>Aliana & David</h2>
+                        <h2>Sara & Steven</h2>
                     </div>
                 </div> <!-- end row -->
             </div> <!-- end container -->
@@ -27,7 +27,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="/assets/images/2.jpg" alt>
+                <img src="/assets/images/detalles/1.webp" alt>
             </div>
             <div class="col-md-6">
                 <div class="blog-content">
@@ -36,40 +36,36 @@
 
                         </div>
                         <ul class="entry-meta">
-                            <li><a href="#"><i class="ti-time"></i> 07 May, 2019</a></li>
-                            <li><a href="#"><i class="ti-book"></i> Consulting, Business</a></li>
+                            <li><a href="#"><i class="ti-time"></i> 20 Apr, 2019</a></li>
+                            <li><a href="#"><i class="ti-book"></i> Wedding Planning</a></li>
                         </ul>
-                        <h2>One in the Arizona desert, another at a Northern California winery, a backyard</h2>
-                        <p>It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a
-                            heavy fur
-                            muff that covered the whole of her lower arm towards the viewer. Gregor then turned
-                            to look
-                            out the window at the dull weather</p>
-                        <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself
-                            transformed in his
-                            bed into a horrible vermin. He lay on his armour-like back, and if he lifted his
-                            head a
-                            little he could see his brown belly, slightly domed and divided by arches into stiff
-                            sections. The bedding was hardly able to cover it and seemed ready to slide off any
-                            moment.
-                            His many legs, pitifully thin compared with the size of the rest of him</p>
-                        <h3>Until I started planning a ten-year anniversary party, I had almost ame donw</h3>
-                        <p>Magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur
-                            hat and
-                            fur boa who sat upright, raising a heavy fur muff that covered the whole of her
-                            lower arm
-                            towards the viewer. Gregor then turned to look out the window at the dull weather.
-                            Drops
-                            with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered
-                            the </p>
+                        <!-- A orilla de la playa, acompañados del atardecer -->
+                        <h2>At the edge of the beach, accompanied by the sunset</h2>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis asperiores quibusdam quidem,
+                            nulla inventore quo quaerat esse. Laborum repellendus ab numquam perspiciatis vel illum, aut
+                            a explicabo. Doloremque, mollitia ipsum!
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima doloribus debitis autem,
+                            nostrum et quis cupiditate corporis sapiente qui magni! Numquam earum, quam facilis saepe
+                            ullam deserunt atque aliquam corrupti?
+                        </p>
+                        <h3>There is no instinct like that of the heart</h3>
+                        <p>
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias assumenda exercitationem
+                            beatae dolores cumque esse quisquam vitae, harum fugit! Repellat error maxime asperiores
+                            inventore quia ipsa expedita laboriosam iste. Expedita corrupti voluptas aut minus amet
+                            reprehenderit impedit, numquam repellat fugiat!
+                        </p>
 
 
                     </div>
                     <div class="container listas">
                         <ul>
-                            <li>Cliente: <span>Aliana y David</span></li>
-                            <li>Location: <span>7 Lake Street,London</span></li>
-                            <li>Date: <span>20 Apr 2018</span></li>
+                            <li>Cliente: <span>Sara & Steven</span></li>
+                            <li>Location: <span>San Jose del Cabo</span></li>
+                            <li>Date: <span>20 Apr 2019</span></li>
                             <li>Duration: <span>3 Month</span></li>
                             <li>Tag: <span>Wedding, Planning</span></li>
                         </ul>
@@ -82,13 +78,13 @@
 
         <div class="row" style="margin-top: 4rem;">
             <div class="col-md-4">
-                <img src="/assets/images/3.jpg" alt>
+                <img src="/assets/images/detalles/2.webp" alt>
             </div>
             <div class="col-md-4">
-                <img src="/assets/images/4.jpg" alt>
+                <img src="/assets/images/detalles/3.webp" alt>
             </div>
             <div class="col-md-4">
-                <img src="/assets/images/5.jpg" alt>
+                <img src="/assets/images/detalles/4.webp" alt>
             </div>
         </div>
     </div> <!-- end container -->
