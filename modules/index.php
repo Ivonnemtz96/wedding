@@ -24,15 +24,15 @@
         </div>
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image d-none d-md-block" data-background="/assets/images/slider/slide-1.jpg"></div>
+                <div class="slide-inner slide-bg-image d-none d-md-block" data-background="/assets/images/slider/slide-1.jpg?=1"></div>
             </div>
 
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-2.jpg"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-2.jpg?=1"></div>
             </div>
 
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-3.jpg"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-3.jpg?=1"></div>
             </div><!-- end swiper-slide -->
         </div>
         <!-- end swiper-wrapper -->
@@ -86,7 +86,7 @@
                 <div class="couple-area">
                     <div class="couple-row clearfix">
                         <div class="img-holder">
-                            <img src="/assets/images/couple/img-1.jpg" alt>
+                            <img src="/assets/images/couple/img-1.jpg?=1" alt>
                         </div>
                         <div class="details">
                             <div class="inner">
@@ -129,7 +129,7 @@
                             </div>
                         </div>
                         <div class="img-holder">
-                            <img src="/assets/images/couple/img-2.jpg" alt>
+                            <img src="/assets/images/couple/img-2.jpg?=1" alt>
                         </div>
                     </div>
                 </div>
@@ -153,7 +153,7 @@
                         your
                         dreams. For us, the design is in the details, from your favorite china to your passion for food,
                         the
-                        only limit is your imagination.
+                        only limit is your imagination!
                     </p>
                 </div>
             </div>
@@ -222,8 +222,8 @@
                         </a>
                     </div>
                     <div class="grid grid-item">
-                        <a href="/assets/images/gallery/img-2.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/assets/images/gallery/img-2.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-2.jpg?=1" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-2.jpg?=1" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item">
@@ -242,14 +242,14 @@
                         </a>
                     </div>
                     <div class="grid grid-item width2">
-                        <a href="/assets/images/gallery/img-7.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/assets/images/gallery/img-7.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-7.jpg?=1" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-7.jpg?=1" alt class="img img-responsive">
                         </a>
                     </div>
 
                     <div class="grid grid-item width2">
-                        <a href="/assets/images/gallery/img-6.jpg" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/assets/images/gallery/img-6.jpg" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-6.jpg?=1" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-6.jpg?=1" alt class="img img-responsive">
                         </a>
                     </div>
 
@@ -272,18 +272,18 @@
 <!-- start event-section -->
 <section class="event-section section-padding p-t-0">
     <div class="top-area">
-        <h2>We help you make your dream come true</h2>
+        <h2 style="text-shadow: 2px 2px #000;">We help you make your dream come true</h2>
         <!-- <p class="date">14 Feb 2023</p> -->
     </div>
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col col-xs-12">
                 <div class="event-grids clearfix">
-                    <div class="grid">
+                    <!-- <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cabo San Lucas</p>
                         <a style="color: #000;" href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
-                    </div>
+                    </div> -->
                     <div class="grid">
                         <h3>Email</h3>
                         <p>You can write to us at</p>
@@ -295,9 +295,14 @@
                     <div class="grid">
                         <h3>Phone</h3>
                         <p>Contact us at</p>
-                        <br><br>
-                        
-                            <a style="color: #000;" href="tel:1234567890">1234567890</a>
+                        <p>
+                            From Mexico <br>
+                            <a style="color: #000;" href="tel:+526241378810">624 137 8810</a> 
+                            
+                            <br> <br>
+                                From USA: <br>
+                                <a style="color: #000;" href="tel:011526241378810">(011 52) 624 137 8810</a>
+                            </p>
                             
                        
                     </div>

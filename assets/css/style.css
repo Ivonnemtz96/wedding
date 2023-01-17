@@ -426,8 +426,8 @@ img {
 
 .section-title:before {
   content: "";
-  background: url("../images/sec-title-flower.png") center center/cover
-    no-repeat local;
+  /* background: url("../images/sec-title-flower.png") center center/cover
+    no-repeat local; */
   width: 126px;
   height: 59px;
   position: absolute;
@@ -4287,7 +4287,7 @@ img {
 
 .event-section .top-area:before {
   content: "";
-  background: -webkit-linear-gradient(top, #b6b8a9 5%, transparent);
+  /* background: -webkit-linear-gradient(top, #b6b8a9 5%, transparent);
   background: -moz-linear-gradient(top, #b6b8a9 5%, transparent);
   background: -o-linear-gradient(top, #b6b8a9 5%, transparent);
   background: -ms-linear-gradient(top, #b6b8a9 5%, transparent);
@@ -4298,7 +4298,7 @@ img {
     color-stop(5%, #b6b8a9),
     to(transparent)
   );
-  background: linear-gradient(top, #b6b8a9 5%, transparent);
+  background: linear-gradient(top, #b6b8a9 5%, transparent); */
   width: 100%;
   height: 100%;
   position: absolute;
@@ -4367,7 +4367,7 @@ img {
 
 .event-section .event-grids .grid {
   background: #fff;
-  width: calc(33.33% - 30px);
+  width: calc(50% - 30px);
   float: left;
   padding: 60px;
   margin: 0 15px 30px;

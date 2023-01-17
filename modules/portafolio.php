@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
-                        <h2>Our Portfolio</h2>
+                        <h2>Planning</h2>
                     </div>
                 </div> <!-- end row -->
             </div> <!-- end container -->
@@ -40,7 +40,10 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2>OUR AMAZING WORK</h2>
+                    <!-- <h2>OUR AMAZING WORK</h2> -->
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos doloremque quia consequatur eos deserunt vel sequi suscipit ut! Tenetur, perferendis. Dignissimos ea optio ipsam itaque non. Quasi, est doloremque! Excepturi incidunt iste rem, ducimus enim beatae facilis. Aliquam, eum similique?
+                    </p>
                     <!-- <p>
                         The best moments captured in one single image
                     </p> -->
