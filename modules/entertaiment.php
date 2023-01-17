@@ -63,8 +63,6 @@
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/7.webp" alt="baby-tigger">
                 </div>
-
-
         </div>
 
     </div>
