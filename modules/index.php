@@ -206,7 +206,7 @@
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
                     <h2>Captured Moments</h2>
-                    <p>
+                    <p style="text-align: center; font-size: 1.3rem;">
                         The best moments captured in a single image
                     </p>
                 </div>
@@ -286,23 +286,23 @@
                     </div> -->
                     <div class="grid">
                         <h3>Email</h3>
-                        <p>You can write to us at</p>
+                        <h4>You can write to us at</h4>
                         <br><br>
-                            <a style="color: #000;" href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a>
+                            <h6><a style="color: #000;" href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a></h6>
                             
                         
                     </div>
                     <div class="grid">
                         <h3>Phone</h3>
-                        <p>Contact us at</p>
-                        <p>
+                        <h4>Contact us at</h4>
+                        <h6>
                             From Mexico <br>
                             <a style="color: #000;" href="tel:+526241378810">624 137 8810</a> 
                             
                             <br> <br>
                                 From USA: <br>
                                 <a style="color: #000;" href="tel:011526241378810">(011 52) 624 137 8810</a>
-                            </p>
+                            </h6>
                             
                        
                     </div>
@@ -320,7 +320,7 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <p>Let’s Meet</p>
+                    <h4>Let’s Meet</h4>
                     <h2>MAKE AN INQUIRY</h2>
 
                 </div>

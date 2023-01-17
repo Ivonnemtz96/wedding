@@ -8062,8 +8062,8 @@ img {
 
 p {
   margin: 0 auto 2rem;
-  text-align: center;
-  font-family: "Montserrat", sans-serif;
+  text-align: justify;
+  font-family: "Montserrat";
   font-size: 1.25rem;
   color: #444;
   font-weight: 100;
