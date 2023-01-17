@@ -24,7 +24,7 @@
         </div>
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-1.jpg"></div>
+                <div class="slide-inner slide-bg-image d-none d-md-block" data-background="/assets/images/slider/slide-1.jpg"></div>
             </div>
 
             <div class="swiper-slide">
@@ -179,7 +179,7 @@
                     <div class="right-vec"></div>
                     <div class="inner">
                         <h2>Save the Date</h2>
-                        <span>This is your time to eat, drink, and be married!.</span>
+                        <span>This is your time to eat, drink, and get married!.</span>
                         <h3>Planning and Management</h3>
                         <p style="text-transform: none;">
                         While you enjoy the festivities, we will take care of the details.
@@ -207,7 +207,7 @@
                 <div class="section-title">
                     <h2>Captured Moments</h2>
                     <p>
-                        The best moments captured in one single image
+                        The best moments captured in a single image
                     </p>
                 </div>
             </div>
@@ -282,23 +282,24 @@
                     <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cabo San Lucas</p>
-                        <a href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
+                        <a style="color: #000;" href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
                     </div>
                     <div class="grid">
                         <h3>Email</h3>
                         <p>You can write to us at</p>
-                        <p>
-                            <a href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a>
-                            <br><br>
-                        </p>
+                        <br><br>
+                            <a style="color: #000;" href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a>
+                            
+                        
                     </div>
                     <div class="grid">
                         <h3>Phone</h3>
                         <p>Contact us at</p>
-                        <p>
-                            <a href="tel:1234567890">1234567890</a>
-                            <br><br>
-                        </p>
+                        <br><br>
+                        
+                            <a style="color: #000;" href="tel:1234567890">1234567890</a>
+                            
+                       
                     </div>
                 </div>
             </div>

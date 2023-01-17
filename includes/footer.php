@@ -11,7 +11,8 @@
             <li><a href="#"><i class="ti-instagram"></i></a></li>
             <!-- <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
         </ul>
-        <p>Copyright 2023 <strong>Weddings at Cabo</strong>, Made with love by <a href="http://banangroup.mx"><strong>Banana Group Marketing</strong></a></p>
+        <p style="text-align: center; font-size: 15px;">Copyright 2023 <strong>Weddings at Cabo</strong>, Made with love by <a
+                target="_blank" href="https://bananagroup.mx"><strong>Banana Group Marketing</strong></a></p>
     </div>
 </footer>
 <!-- end site-footer -->
