@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
-                        <h2>Planning</h2>
+                        <h2>Flavors and Cakes</h2>
                     </div>
                 </div> <!-- end row -->
             </div> <!-- end container -->
@@ -28,9 +28,7 @@
                     <!-- <h2>OUR AMAZING WORK</h2> -->
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos doloremque quia consequatur eos
-                        deserunt vel sequi suscipit ut! Tenetur, perferendis. Dignissimos ea optio ipsam itaque non.
-                        Quasi, est doloremque! Excepturi incidunt iste rem, ducimus enim beatae facilis. Aliquam, eum
-                        similique?
+                        deserunt vel sequi suscipit ut! Tenetur, perferendis.
                     </p>
                     <!-- <p>
                         The best moments captured in one single image
@@ -71,22 +69,6 @@
                     <h2 id="caption"><span><a href="/detalles">Amber & Franklin</a></span></h2>
                 </div>
             </div>
-
-            <!-- 3 Columns -->
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
-                <div class="image">
-                    <img class="img-responsive" src="/assets/images/4.webp" alt="baby-tigger">
-                    <h2 id="caption"><span><a href="/detalles">Amera & Ben</a></span></h2>
-                </div>
-            </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
-                <div class="image">
-                    <img class="img-responsive" src="/assets/images/5.webp" alt="baby-tigger">
-                    <h2 id="caption"><span><a href="/detalles">Gaby & Brandon</a></span></h2>
-                </div>
-            </div>
-
-
         </div>
 
     </div>
