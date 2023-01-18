@@ -123,7 +123,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
+                <div class="section-title servicios">
                     <h2 style="color: #b6b8a9;">Services</h2>
                     <p>
                         A Weddings at Cabo event is a vision of beauty - not our vision, but YOUR vision. From the
@@ -183,7 +183,7 @@
     <div class="container">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
+                <div class="section-title fotos">
                     <h2 style="color: #b6b8a9;">Captured Moments</h2>
                     <p style="text-align: center; font-size: 1.3rem;">
                         The best moments captured in a single image
@@ -298,10 +298,10 @@
 
 <!-- start contact-section -->
 <section class="contact-section section-padding p-t-0">
-    <div class="container">
+    <div class="container" id="contact">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
+                <div class="section-title mail">
                     <h4>Let’s Meet</h4>
                     <h2 style="color: #b6b8a9;">MAKE AN INQUIRY</h2>
 

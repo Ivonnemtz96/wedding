@@ -440,6 +440,22 @@ img {
   top: 0;
   opacity: 30%;
 }
+.fotos::before{
+  background: url("../images/fotos.png") center center/cover
+    no-repeat local;
+}
+.mail::before{
+  background: url("../images/mail.png") center center/cover
+    no-repeat local;
+}
+.portafolio::before{
+  background: url("../images/portafolio.png") center center/cover
+    no-repeat local;
+}
+.servicios::before{
+  background: url("../images/servicios.png") center center/cover
+    no-repeat local;
+}
 
 .section-title h2 {
   font-size: 36px;

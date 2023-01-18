@@ -24,7 +24,7 @@
     <div class="container" style="margin-top: 5rem;">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
+                <div class="section-title portafolio">
                     <h2 style="color: #b6b8a9;">OUR AMAZING WORK</h2>
 
                     <p>
