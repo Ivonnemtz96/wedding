@@ -1,6 +1,6 @@
 <!-- start page-title -->
 <section class="page-title">
-    <div class="page-title-container" style="background-image: url(/assets/images/1.jpg);">
+    <div class="page-title-container" style="background-image: url(/assets/images/catering.jpg);">
         <div class="page-title-wrapper">
             <div class="container">
                 <div class="row">
@@ -40,28 +40,28 @@
             <!-- 3 Columns -->
             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/1.webp" alt="baby-tigger">
+                    <img class="img-responsive" src="/assets/images/servicios/6.jpg" alt="baby-tigger">
                 </div>
             </div>
             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/2.webp" alt="baby-tigger">
+                    <img class="img-responsive" src="/assets/images/servicios/7.jpg" alt="baby-tigger">
                 </div>
             </div>
             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/3.webp" alt="baby-tigger">
+                    <img class="img-responsive" src="/assets/images/servicios/8.jpg" alt="baby-tigger">
                 </div>
             </div>
             <!-- 2 Columns -->
             <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/6.webp" alt="baby-tigger">
+                    <img class="img-responsive" src="/assets/images/servicios/9.jpg" alt="baby-tigger">
                 </div>
             </div>
             <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/7.webp" alt="baby-tigger">
+                    <img class="img-responsive" src="/assets/images/servicios/10.jpg" alt="baby-tigger">
                 </div>
             </div>
         </div>
