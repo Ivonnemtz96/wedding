@@ -36,6 +36,17 @@
                 </div>
             </div>
         </div>
+        <div class="row text-center" style="margin-bottom: 3rem;">
+            <div class="col-md-4">
+                <a href="" class="theme-btn">Menú 1</a>
+            </div>
+            <div class="col-md-4">
+                <a href="" class="theme-btn">Menú 2</a>
+            </div>
+            <div class="col-md-4">
+                <a href="" class="theme-btn">Menú 3</a>
+            </div>
+        </div>
         <div class="row">
             <!-- 3 Columns -->
             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
