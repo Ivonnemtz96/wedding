@@ -5,6 +5,7 @@
         <meta name="author" content="irstheme">
 
         <title> Weddings at Cabo </title>
+        <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
 
         <link href="/assets/css/themify-icons.css" rel="stylesheet">
         <link href="/assets/css/flaticon.css" rel="stylesheet">
