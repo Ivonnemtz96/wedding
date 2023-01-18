@@ -135,7 +135,7 @@ html {
 }
 
 body {
-  font-family: "Now";
+  font-family: "Montserrat";
   background-color: #fff;
   font-size: 15px;
   font-size: 1rem;
@@ -426,10 +426,10 @@ img {
 
 .section-title:before {
   content: "";
-  /* background: url("../images/sec-title-flower.png") center center/cover
-    no-repeat local; */
+  background: url("../images/separador.png") center center/cover
+    no-repeat local;
   width: 126px;
-  height: 59px;
+  height: 130px;
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -438,6 +438,7 @@ img {
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   top: 0;
+  opacity: 30%;
 }
 
 .section-title h2 {
@@ -3525,7 +3526,7 @@ img {
 }
 
 .invitation-section .invitation-box .left-vec {
-  background: url("../images/invitation-left-img.png") center center/cover
+  background: url("../images/izquierda.png") center center/cover
     no-repeat local;
   width: 220px;
   height: 414px;
@@ -3546,7 +3547,7 @@ img {
 }
 
 .invitation-section .invitation-box .right-vec {
-  background: url("../images/invitation-right-image.png") center center/cover
+  background: url("../images/derecha.png") center center/cover
     no-repeat local;
   width: 400px;
   height: 508px;
@@ -8308,8 +8309,8 @@ h2 span a:hover{
 
 /* comentarios */
 
-#comentarios {
-  padding: 40px 20px;
+.comentarios {
+  padding: 60px 30px;
 }
 .section_title {
     text-transform: uppercase;
@@ -8320,8 +8321,8 @@ h2 span a:hover{
 }
 
 .reviews {
-	background-color: #5e2d5b;
-	color: #fff;
+	/* background-color: #5e2d5b; */
+	color: #b6b8a9;
 }
 
 .reviews .slick-slider {
@@ -8373,7 +8374,7 @@ h2 span a:hover{
 
 .reviews .reviews-text-slider h2 {
 	color: #ffffff;
-	font-family: MyriadPro-Bold;
+	font-family:"Montserrat";
 }
 
 .reviews .reviews-text-slider {
@@ -8391,9 +8392,9 @@ h2 span a:hover{
 
 .reviews .sin-testiText p {
 	margin-top: 22px;
-	color: #fff;
+	color: #b6b8a9;
 	line-height: 24px;
-	font-family: MyriadPro-Regular;
+	font-family: "Montserrat";
 }
 
 .reviews .grid-padding-x > .cell:nth-child(2) {
@@ -8410,9 +8411,8 @@ h2 span a:hover{
 	content: ',,';
 	position: absolute;
 	font-size: 56px;
-	color: #ff3d74;
-	font-family: 'Times New Roman',
- serif;
+	color: #b6b8a9;
+	font-family: "Montserrat";
 	font-weight: 700;
 	line-height: 0;
 	-webkit-transform: rotate(180deg);

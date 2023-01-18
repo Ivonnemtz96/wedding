@@ -97,6 +97,7 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="/portafolio">Portfolio</a></li>
                     <li><a href="/#galeria">Gallery</a></li>
+                    <li><a href="/#review">Reviews</a></li>
                     <li><a href="/#contact">Contact</a></li>
                 </ul>
             </div><!-- end of nav-collapse -->
