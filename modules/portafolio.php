@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2>OUR AMAZING WORK</h2>
+                    <h2 style="color: #b6b8a9;text-shadow: 1px 1px 3px #000;">OUR AMAZING WORK</h2>
                    
                     <!-- <p>
                         The best moments captured in one single image
