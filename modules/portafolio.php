@@ -36,21 +36,21 @@
         </div>
         <div class="row">
             <!-- 3 Columns -->
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/5.webp" alt="baby-tigger">
                     <h2 id="caption"><span><a href="/wedding1">Gaby & Brandon</a></span></h2>
                 </div>
             </div>
 
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/2.webp" alt="baby-tigger">
                     <h2 id="caption"><span><a href="/wedding3">Briana & Sean</a></span></h2>
                 </div>
             </div>
 
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/3.webp?=1" alt="baby-tigger">
                     <h2 id="caption"><span><a href="/wedding4">Tara & Logan</a></span></h2>
@@ -58,7 +58,7 @@
             </div>
 
             <!-- 2 Columns -->
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/6.webp" alt="baby-tigger">
                     <h2 id="caption"><span><a href="/wedding2">Sara & Steven</a></span></h2>
@@ -74,14 +74,14 @@
             </div> -->
 
             <!-- 3 Columns -->
-            <!-- <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <!-- <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/4.webp" alt="baby-tigger">
                     <h2 id="caption"><span><a href="/detalles">Amera & Ben</a></span></h2>
                 </div>
             </div> -->
 
-            <!-- <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <!-- <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/1.webp" alt="baby-tigger">
                     <h2 id="caption"><span><a href="/detalles">Keana & Taran</a></span></h2>
