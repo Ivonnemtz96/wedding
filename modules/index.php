@@ -46,34 +46,13 @@
 <!-- end of hero slider -->
 
 
-<!-- start services-section -->
-<section hidden class="services-section section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="section-title">
-                    <h2>About</h2>
-                    <p>
-                        Weddings at Cabo by Susana Flores, is a premier company based in Los
-                        Cabos that specializes in designing beautifully styled events. No matter
-                        what type of celebration you are planning, we can help you to create the
-                        best ambiance for you and your guests. <br>
-                        A night to be remembered as an unforgettable one!
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div> <!-- end container -->
-</section>
-<!-- end services-section -->
-
 <!-- start couple-section -->
 <section class="couple-section section-padding p-t-4">
     <div class="container">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2>Weddings at Cabo</h2>
+                    <h2 style="color: #b6b8a9;">Weddings at Cabo</h2>
                     <!-- <p>
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque temporibus natus suscipit.
                         Praesentium minus velit reiciendis officiis commodi voluptatem numquam!
@@ -145,7 +124,7 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2>Services</h2>
+                    <h2 style="color: #b6b8a9;">Services</h2>
                     <p>
                         A Weddings at Cabo event is a vision of beauty - not our vision, but YOUR vision. From the
                         custom
@@ -182,7 +161,7 @@
                         <span>This is your time to eat, drink, and get married!.</span>
                         <h3>Planning and Management</h3>
                         <p style="text-transform: none;">
-                        While you enjoy the festivities, we will take care of the details.
+                            While you enjoy the festivities, we will take care of the details.
                         </p>
                         <a href="/#contact" class="theme-btn" id="scroll">Contact now</a>
                     </div>
@@ -200,13 +179,13 @@
 
 <!-- start gallery-section -->
 
-<section class="gallery-section section-padding p-t-0" >
-    <div class="container" >
+<section class="gallery-section section-padding p-t-0">
+    <div class="container">
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2>Captured Moments</h2>
-                    <p>
+                    <h2 style="color: #b6b8a9;">Captured Moments</h2>
+                    <p style="text-align: center; font-size: 1.3rem;">
                         The best moments captured in a single image
                     </p>
                 </div>
@@ -272,34 +251,40 @@
 <!-- start event-section -->
 <section class="event-section section-padding p-t-0">
     <div class="top-area">
-        <h2>We help you make your dream come true</h2>
+        <h2 style="text-shadow: 2px 2px #000;">We help you make your dream come true</h2>
         <!-- <p class="date">14 Feb 2023</p> -->
     </div>
     <div class="container">
         <div class="row">
             <div class="col col-xs-12">
                 <div class="event-grids clearfix">
-                    <div class="grid">
+                    <!-- <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cabo San Lucas</p>
-                        <a style="color: #000;" href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
-                    </div>
+                        <a style="color: #000;" href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See
+                            location</a>
+                    </div> -->
                     <div class="grid">
                         <h3>Email</h3>
-                        <p>You can write to us at</p>
+                        <h4>You can write to us at</h4>
                         <br><br>
-                            <a style="color: #000;" href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a>
-                            
-                        
+                        <h6><a style="color: #000;" href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a>
+                        </h6>
+
                     </div>
                     <div class="grid">
                         <h3>Phone</h3>
-                        <p>Contact us at</p>
+                        <h4>Contact us at</h4>
                         <br><br>
-                        
-                            <a style="color: #000;" href="tel:1234567890">1234567890</a>
-                            
-                       
+                        <h6>
+                            From Mexico <br>
+                            <a style="color: #000;" href="tel:+526241378810">624 137 8810</a>
+
+                            <br> <br>
+                            From USA: <br>
+                            <a style="color: #000;" href="tel:011526241378810">(011 52) 624 137 8810</a>
+                        </h6>
+
                     </div>
                 </div>
             </div>
@@ -315,8 +300,8 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <p>Let’s Meet</p>
-                    <h2>MAKE AN INQUIRY</h2>
+                    <h4>Let’s Meet</h4>
+                    <h2 style="color: #b6b8a9;">MAKE AN INQUIRY</h2>
 
                 </div>
             </div>
@@ -372,7 +357,8 @@
                         </div>
 
                         <div class="col col-sm-12">
-                            <textarea class="form-control" name="notes" placeholder="Tell Us a little about your celebration*"></textarea>
+                            <textarea class="form-control" name="notes"
+                                placeholder="Tell Us a little about your celebration*"></textarea>
                         </div>
                         <div class="col col-sm-12 submit-btn">
                             <button type="submit" class="theme-btn">Send</button>
@@ -391,3 +377,83 @@
     </div> <!-- end container -->
 </section>
 <!-- end contact-section -->
+
+<!-- comentarios -->
+<section class="reviews" id=" comentarios">
+    <div class="section_title">
+        <h2>Отзывы</h2>
+    </div>
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x align-center">
+            <div class="cell medium-9 small-12">
+                <div class="reviews-slider slider-nav">
+                    <div class="sin-testiImage">
+                        <img src="https://s26.postimg.cc/bz6kq188p/rew1.jpg" alt="">
+                    </div>
+                    <div class="sin-testiImage">
+                        <img src="https://s26.postimg.cc/cbxyw85y1/rew2.jpg">
+                    </div>
+                    <div class="sin-testiImage">
+                        <img src="https://s26.postimg.cc/rxfag6a6h/rew3.jpg">
+                    </div>
+                    <div class="sin-testiImage">
+                        <img src="https://s26.postimg.cc/bz6kq188p/rew1.jpg">
+                    </div>
+                    <div class="sin-testiImage">
+                        <img src="https://s26.postimg.cc/cbxyw85y1/rew2.jpg">
+                    </div>
+                    <div class="sin-testiImage">
+                        <img src="https://s26.postimg.cc/rxfag6a6h/rew3.jpg">
+                    </div>
+                </div>
+            </div>
+            <div class="cell medium-10 small-12">
+                <div class="quotes"></div>
+                <div class="reviews-text-slider slider-for">
+                    <div class="sin-testiText">
+                        <h2>Алина Смирнова </h2>
+                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour,
+                            or randomised words which don't look even slightly believable.by injected humour, or
+                            randomised words which don't look even slightly believable</p>
+                    </div>
+                    <div class="sin-testiText">
+                        <h2>Soyong Sourav</h2>
+                        <p>Nam nec tellus a odio tincidunt This lorem is Photoshop's version of Lorem Ipsum.
+                            Proin gravida nibh vel velit auctor aliquet. Aenean nisi sollicitudin,
+                            lorem quis bibendum auctor, nisi elit consequat ipsum gravida.Proin gravida nibh vel velit
+                            auctor aliquet.</p>
+                    </div>
+                    <div class="sin-testiText">
+                        <h2>Joker Buzz</h2>
+                        <p>Nam nec tellus a odio tincidunt This is Photoshop's version of Lorem Ipsum.
+                            Proin gravida nibh vel velit auctor aliquet. Aenean tincidunt sollicitudin,
+                            lorem quis bibendum auctor, nisi elit consequat ipsum Photoshop.Proin gravida nibh vel velit
+                            auctor aliquet.</p>
+                    </div>
+                    <div class="sin-testiText">
+                        <h2>M S Nawaz </h2>
+                        <p>There are many variations of passages of Lorem Ipsum available,
+                            but the majority have suffered alteration in some form, by injected humour,
+                            or randomised words which don't look even slightly believable.but the majority have suffered
+                            alteration in some form,</p>
+                    </div>
+                    <div class="sin-testiText">
+                        <h2>Chowchilla Madera</h2>
+                        <p>Nam nec tellus a odio tincidunt This is Photoshop's version of Lorem Ipsum.
+                            Proin gravida nibh vel velit auctor aliquet. Proin gravida nibh vel velit auctor aliquet.
+                            Aenean sollicitudin,
+                            aliquet lorem quis tellus velit bibendum auctor, nisi elit consequat ipsum</p>
+                    </div>
+                    <div class="sin-testiText">
+                        <h2>Kattie Luis</h2>
+                        <p>Nam nec tellus a odio tincidunt This is Photoshop's
+                            version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+                            Aenean sollicitudin, lorem gravida tincidunt quis bibendum auctor, lorem gravida tincidunt
+                            quis bibendum auctor, nisi elit consequat ipsum</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
