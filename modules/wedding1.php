@@ -30,12 +30,12 @@
                 <img src="/assets/images/detalles/5.webp" alt>
             </div>
             <div class="col-md-6 align-items-center">
-                <div class="blog-content">
+                <div class="blog-content" style="margin-top: 2rem; margin-bottom: 2rem;">
                     <div class="post format-standard-image">
                         <div class="entry-media">
 
                         </div>                        
-                        <h2 style="margin-top: 2rem; margin-bottom: 2rem;">GABY AND BRANDON</h2>
+                        <h2>GABY AND BRANDON</h2>
                         <p>
                             This couple was beautiful and beyond awesome!!! They put so much work
                             and dedication into their wedding that they achieved a very unique design.

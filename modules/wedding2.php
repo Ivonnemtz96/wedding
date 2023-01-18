@@ -30,7 +30,7 @@
                 <img src="/assets/images/detalles/20.webp" alt>
             </div>
             <div class="col-md-6">
-                <div class="blog-content">
+                <div class="blog-content" style="margin-top: 2rem; margin-bottom: 2rem;">
                     <div class="post format-standard-image">
                         <div class="entry-media">
 
