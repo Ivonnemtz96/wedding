@@ -53,7 +53,7 @@
             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/3.webp?=1" alt="baby-tigger">
-                    <h2 id="caption"><span><a href="/detalles">Tara & Logan</a></span></h2>
+                    <h2 id="caption"><span><a href="/wedding4">Tara & Logan</a></span></h2>
                 </div>
             </div>
 
