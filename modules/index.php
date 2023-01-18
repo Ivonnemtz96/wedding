@@ -24,15 +24,15 @@
         </div>
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image d-none d-md-block" data-background="/assets/images/slider/slide-1.jpg?=1"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-1.jpg"></div>
             </div>
 
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-2.jpg?=1"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-2.jpg"></div>
             </div>
 
             <div class="swiper-slide">
-                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-3.jpg?=1"></div>
+                <div class="slide-inner slide-bg-image" data-background="/assets/images/slider/slide-3.jpg"></div>
             </div><!-- end swiper-slide -->
         </div>
         <!-- end swiper-wrapper -->
@@ -52,7 +52,7 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2 >About</h2>
+                    <h2>About</h2>
                     <p>
                         Weddings at Cabo by Susana Flores, is a premier company based in Los
                         Cabos that specializes in designing beautifully styled events. No matter
@@ -73,7 +73,7 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2 style="color: #b6b8a9;">Weddings at Cabo</h2>
+                    <h2>Weddings at Cabo</h2>
                     <!-- <p>
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque temporibus natus suscipit.
                         Praesentium minus velit reiciendis officiis commodi voluptatem numquam!
@@ -86,7 +86,7 @@
                 <div class="couple-area">
                     <div class="couple-row clearfix">
                         <div class="img-holder">
-                            <img src="/assets/images/couple/img-1.jpg?=1" alt>
+                            <img src="/assets/images/couple/img-1.jpg" alt>
                         </div>
                         <div class="details">
                             <div class="inner">
@@ -129,7 +129,7 @@
                             </div>
                         </div>
                         <div class="img-holder">
-                            <img src="/assets/images/couple/img-2.jpg?=1" alt>
+                            <img src="/assets/images/couple/img-2.jpg" alt>
                         </div>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2 style="color: #b6b8a9;">Services</h2>
+                    <h2>Services</h2>
                     <p>
                         A Weddings at Cabo event is a vision of beauty - not our vision, but YOUR vision. From the
                         custom
@@ -153,7 +153,7 @@
                         your
                         dreams. For us, the design is in the details, from your favorite china to your passion for food,
                         the
-                        only limit is your imagination!
+                        only limit is your imagination.
                     </p>
                 </div>
             </div>
@@ -205,8 +205,8 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h2 style="color: #b6b8a9;">Captured Moments</h2>
-                    <p style="text-align: center; font-size: 1.3rem;">
+                    <h2>Captured Moments</h2>
+                    <p>
                         The best moments captured in a single image
                     </p>
                 </div>
@@ -222,8 +222,8 @@
                         </a>
                     </div>
                     <div class="grid grid-item">
-                        <a href="/assets/images/gallery/img-2.jpg?=1" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/assets/images/gallery/img-2.jpg?=1" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-2.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-2.jpg" alt class="img img-responsive">
                         </a>
                     </div>
                     <div class="grid grid-item">
@@ -242,14 +242,14 @@
                         </a>
                     </div>
                     <div class="grid grid-item width2">
-                        <a href="/assets/images/gallery/img-7.jpg?=1" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/assets/images/gallery/img-7.jpg?=1" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-7.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-7.jpg" alt class="img img-responsive">
                         </a>
                     </div>
 
                     <div class="grid grid-item width2">
-                        <a href="/assets/images/gallery/img-6.jpg?=1" class="fancybox" data-fancybox-group="gall-1">
-                            <img src="/assets/images/gallery/img-6.jpg?=1" alt class="img img-responsive">
+                        <a href="/assets/images/gallery/img-6.jpg" class="fancybox" data-fancybox-group="gall-1">
+                            <img src="/assets/images/gallery/img-6.jpg" alt class="img img-responsive">
                         </a>
                     </div>
 
@@ -272,37 +272,32 @@
 <!-- start event-section -->
 <section class="event-section section-padding p-t-0">
     <div class="top-area">
-        <h2 style="text-shadow: 2px 2px #000;">We help you make your dream come true</h2>
+        <h2>We help you make your dream come true</h2>
         <!-- <p class="date">14 Feb 2023</p> -->
     </div>
     <div class="container">
-        <div class="row justify-content-center">
+        <div class="row">
             <div class="col col-xs-12">
                 <div class="event-grids clearfix">
-                    <!-- <div class="grid">
+                    <div class="grid">
                         <h3>Address</h3>
                         <p>Monday to Saturday: <br> 9:00 am - 8:00 pm <br>Cabo San Lucas</p>
                         <a style="color: #000;" href="https://goo.gl/maps/jVdhUZXgJkzRgVvL7" target="_blank">See location</a>
-                    </div> -->
+                    </div>
                     <div class="grid">
                         <h3>Email</h3>
-                        <h4>You can write to us at</h4>
+                        <p>You can write to us at</p>
                         <br><br>
-                            <h6><a style="color: #000;" href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a></h6>
+                            <a style="color: #000;" href="mailto:info@weddingsatcabo.com">info@weddingsatcabo.com</a>
                             
                         
                     </div>
                     <div class="grid">
                         <h3>Phone</h3>
-                        <h4>Contact us at</h4>
-                        <h6>
-                            From Mexico <br>
-                            <a style="color: #000;" href="tel:+526241378810">624 137 8810</a> 
-                            
-                            <br> <br>
-                                From USA: <br>
-                                <a style="color: #000;" href="tel:011526241378810">(011 52) 624 137 8810</a>
-                            </h6>
+                        <p>Contact us at</p>
+                        <br><br>
+                        
+                            <a style="color: #000;" href="tel:1234567890">1234567890</a>
                             
                        
                     </div>
@@ -320,8 +315,8 @@
         <div class="row">
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
-                    <h4>Let’s Meet</h4>
-                    <h2 style="color: #b6b8a9;">MAKE AN INQUIRY</h2>
+                    <p>Let’s Meet</p>
+                    <h2>MAKE AN INQUIRY</h2>
 
                 </div>
             </div>

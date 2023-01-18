@@ -26,10 +26,11 @@
             <div class="col col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="section-title">
                     <h2 style="color: #b6b8a9;">OUR AMAZING WORK</h2>
-                   
-                    <!-- <p>
-                        The best moments captured in one single image
-                    </p> -->
+
+                    <p>
+                        Explore our portfolio and get inspired by the beautiful and unique
+                        combination of colors of Cabo. The turquoise of the ocean and desert!
+                    </p>
                 </div>
             </div>
         </div>
@@ -37,10 +38,18 @@
             <!-- 3 Columns -->
             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/1.webp" alt="baby-tigger">
-                    <h2 id="caption"><span><a href="/detalles">Keana & Taran</a></span></h2>
+                    <img class="img-responsive" src="/assets/images/5.webp" alt="baby-tigger">
+                    <h2 id="caption"><span><a href="/wedding1">Gaby & Brandon</a></span></h2>
                 </div>
             </div>
+
+            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/6.webp" alt="baby-tigger">
+                    <h2 id="caption"><span><a href="/wedding2">Sara & Steven</a></span></h2>
+                </div>
+            </div>
+
             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/2.webp" alt="baby-tigger">
@@ -54,12 +63,7 @@
                 </div>
             </div>
             <!-- 2 Columns -->
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
-                <div class="image">
-                    <img class="img-responsive" src="/assets/images/6.webp" alt="baby-tigger">
-                    <h2 id="caption"><span><a href="/detalles">Sara & Steven</a></span></h2>
-                </div>
-            </div>
+            
             <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/7.webp" alt="baby-tigger">
@@ -68,19 +72,19 @@
             </div>
 
             <!-- 3 Columns -->
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <!-- <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/4.webp" alt="baby-tigger">
                     <h2 id="caption"><span><a href="/detalles">Amera & Ben</a></span></h2>
                 </div>
-            </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
-                <div class="image">
-                    <img class="img-responsive" src="/assets/images/5.webp" alt="baby-tigger">
-                    <h2 id="caption"><span><a href="/detalles">Gaby & Brandon</a></span></h2>
-                </div>
-            </div>
+            </div> -->
 
+            <!-- <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/1.webp" alt="baby-tigger">
+                    <h2 id="caption"><span><a href="/detalles">Keana & Taran</a></span></h2>
+                </div>
+            </div> -->
 
         </div>
 
