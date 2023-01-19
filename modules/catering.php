@@ -55,28 +55,28 @@
         </div>
         <div class="row">
             <!-- 3 Columns -->
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/6.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/7.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/8.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
             <!-- 2 Columns -->
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/9.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/10.jpg?=1" alt="baby-tigger">
                 </div>
@@ -84,28 +84,28 @@
 
 
             <!-- 3 Columns -->
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/26.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/27.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/28.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
             <!-- 2 Columns -->
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/29.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/30.jpg?=1" alt="baby-tigger">
                 </div>
@@ -114,28 +114,28 @@
 
 
             <!-- 3 Columns -->
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/31.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/32.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/33.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
             <!-- 2 Columns -->
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/34.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/35.jpg?=1" alt="baby-tigger">
                 </div>
@@ -143,28 +143,28 @@
 
 
              <!-- 3 Columns -->
-             <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+             <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/36.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/37.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <div class="col-xs-4 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/38.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
             <!-- 2 Columns -->
-            <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/39.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            <!-- <div class="col-xs-6 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <!-- <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/35.jpg?=1" alt="baby-tigger">
                 </div>
