@@ -1,6 +1,6 @@
 <!-- start page-title -->
 <section class="page-title">
-    <div class="page-title-container" style="background-image: url(/assets/images/planning.jpg);">
+    <div class="page-title-container" style="background-image: url(/assets/images/planning.jpg?=1);">
         <div class="page-title-wrapper">
             <div class="container">
                 <div class="row">

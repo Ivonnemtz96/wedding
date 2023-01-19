@@ -30,7 +30,7 @@
                 <img src="/assets/images/detalles/13.webp" alt>
             </div>
             <div class="col-md-6">
-                <div class="blog-content">
+                <div class="blog-content" style="margin-top: 2rem; margin-bottom: 2rem;">
                     <div class="post format-standard-image">
                         <h2>Tara & Logan</h2>
                         <p>
