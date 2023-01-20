@@ -43,7 +43,7 @@
         <div class="row">
             <div class="col-md-6" style="margin-top:2rem; margin-bottom:3rem;">
                 <h2 style="color: #b6b8a9;">SYMBOLIC WEDDINGS</h2>
-                <p style="font-family: 'Montserrat';">
+                <p style="font-family: 'Montserrat'; font-size:1rem;">
                     Symbolic ceremonies are fun and easy to orchestrate. You can hire a
                     Minister in Mexico and your ceremony can be customized as much as you
                     want. The ceremony can be religious, non-religious, or spiritual. You can
@@ -56,7 +56,7 @@
             </div>
             <div class="col-md-6" style="margin-top:2rem; margin-bottom:3rem;">
                 <h2 style="color: #b6b8a9;">LEGAL WEDDINGS</h2>
-                <p style="font-family: 'Montserrat';">
+                <p style="font-family: 'Montserrat'; font-size:1rem;">
                     Legal Weddings in Mexico are legal in the US and Canada but in order to
                     do so, you must meet some requirements. <br>
                     To start you will need to complete a marriage request form, bring your
