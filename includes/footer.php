@@ -205,7 +205,7 @@
 <footer class="site-footer footer-style-1">
     <div class="inner">
         <div class="couple-pic">
-            <img src="/assets/images/footer-couple-pic.jpg" alt>
+            <img src="/assets/images/<?echo $footer?>" alt>
         </div>
         <h2>Thank you</h2>
         <ul class="social-links">

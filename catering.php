@@ -2,6 +2,7 @@
 <html lang="es">
 <?php
     include("includes/head.php");
+    $footer = "cat1.jpg";
 ?>
 
 <body>
