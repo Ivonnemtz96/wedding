@@ -29,7 +29,7 @@
                     <p>
                         Entertainment is one of our favorite parts of your wedding. Besides tasty
                         cocktails, beautiful ceremonies and delicious dinner, your guests will be
-                        <strong style="color: red;">enjoying</strong> a fun and big celebration towards the end of the night!!
+                        enjoying a fun and big celebration towards the end of the night!!
                         We work with the best and the most talented people in Los Cabos. From a
                         solo guitarist, to a mariachi band, fireworks, drums, DJ…. you name it. <br><br>
                         Ask us!!
@@ -44,23 +44,23 @@
             <!-- 3 Columns -->
             <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/92.jpg?=1" alt="Wedding at Cabo entertainment">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/1.jpg?=1" alt="Wedding at Cabo entertainment">
                 </div>
             </div>
             <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/servicios/2.jpg?=1" alt="Wedding at Cabo entertainment">
-                </div>
-            </div>
-            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
-                <div class="image">
-                    <img class="img-responsive" src="/assets/images/servicios/3.jpg?=1" alt="Wedding at Cabo entertainment">
+                    <img class="img-responsive" src="/assets/images/servicios/97.jpg?=1" alt="Wedding at Cabo entertainment">
                 </div>
             </div>
             <!-- 2 Columns -->
             <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/servicios/4.jpg?=1" alt="Wedding at Cabo entertainment">
+                    <img class="img-responsive" src="/assets/images/servicios/94.jpg?=1" alt="Wedding at Cabo entertainment">
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
@@ -72,13 +72,53 @@
             <!-- 3 Columns -->
             <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/servicios/40.jpg?=1" alt="Wedding at Cabo entertainment">
+                    <img class="img-responsive" src="/assets/images/servicios/99.jpg?=1" alt="Wedding at Cabo entertainment">
                 </div>
             </div>
             <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
-                    <img class="img-responsive" src="/assets/images/servicios/41.jpg?=1" alt="Wedding at Cabo entertainment">
+                    <img class="img-responsive" src="/assets/images/servicios/3.jpg?=1" alt="Wedding at Cabo entertainment">
                 </div>
             </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/98.jpg?=1" alt="Wedding at Cabo entertainment">
+                </div>
+            </div>
+
+
+
+            <!-- //////////////////////////////////////// -->
+
+            <!-- 2 Columns -->
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/4.jpg?=1" alt="Wedding at Cabo entertainment">
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/93.jpg?=1" alt="Wedding at Cabo entertainment">
+                </div>
+            </div>
+
+            <!-- 3 Columns -->
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/95.jpg?=1" alt="Wedding at Cabo entertainment">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/2.jpg?=1" alt="Wedding at Cabo entertainment">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/96.jpg?=1" alt="Wedding at Cabo entertainment">
+                </div>
+            </div>
+
+
         </div>
 </section>

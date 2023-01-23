@@ -40,17 +40,18 @@
                         <br><br>
                     </p>
 
-                    <ul>
+                    <ul style="list-style: none;">
                         <strong>SERVICES INCLUDED</strong>
-                        <li>Meetings before the wedding to be used at your leisure.</li>
-                        <li> If you are planning to visit Los Cabos soon, we will help you to create
+                        <li style="color: #444;">Meetings before the wedding to be used at your leisure.</li>
+                        <li style="color: #444;"> If you are planning to visit Los Cabos soon, we will help you to
+                            create
                             an agenda that will include: touring locations, vendor meetings, cake
                             and catering tastings, floral selection, furniture, decor, etc.</li>
-                        <li>Create a detailed timeline for your event</li>
-                        <li>Budget management</li>
-                        <li>Organization of rehearsal dinner, reservations, etc.</li>
-                        <li>Full design and styling concept based on your vision.</li>
-                        <li>Coordinate the wedding party, all wedding day vendors, and
+                        <li style="color: #444;">Create a detailed timeline for your event</li>
+                        <li style="color: #444;">Budget management</li>
+                        <li style="color: #444;">Organization of rehearsal dinner, reservations, etc.</li>
+                        <li style="color: #444;">Full design and styling concept based on your vision.</li>
+                        <li style="color: #444;">Coordinate the wedding party, all wedding day vendors, and
                             orchestrate the wedding ceremony.
                         </li>
 
@@ -129,7 +130,119 @@
                     <img class="img-responsive" src="/assets/images/servicios/48.jpg?=1" alt="baby-tigger">
                 </div>
             </div>
-            
+            <div class="col-12 col-md-6 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/62.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <!-- //////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+            <!-- 2 Columns -->
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/55.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/56.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+
+            <!-- 3 Columns -->
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/57.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/58.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/64.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+
+
+
+
+            <!-- 2 Columns -->
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/60.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/61.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+
+            <!-- 3 Columns -->
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/87.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/63.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/59.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+
+
+
+            <!-- 2 Columns -->
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/65.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/66.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+
+            <!-- 3 Columns -->
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/67.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/68.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-4 col-lg-4" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/69.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+
+            <!-- 2 Columns -->
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/70.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+                <div class="image">
+                    <img class="img-responsive" src="/assets/images/servicios/86.jpg?=1" alt="baby-tigger">
+                </div>
+            </div>
+
+
+
 
         </div>
 

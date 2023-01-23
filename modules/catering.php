@@ -130,7 +130,7 @@
                 </div>
             </div>
             <!-- 2 Columns -->
-            <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
+            <!-- <div class="col-12 col-md-6 col-lg-6" style="margin-bottom: 45px; margin-top:20px">
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/34.jpg?=1" alt="baby-tigger">
                 </div>
@@ -139,7 +139,7 @@
                 <div class="image">
                     <img class="img-responsive" src="/assets/images/servicios/35.jpg?=1" alt="baby-tigger">
                 </div>
-            </div>
+            </div> -->
 
 
              <!-- 3 Columns -->

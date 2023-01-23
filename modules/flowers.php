@@ -27,8 +27,10 @@
                 <div class="section-title">
                     <!-- <h2>OUR AMAZING WORK</h2> -->
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos doloremque quia consequatur eos
-                        deserunt vel sequi suscipit ut! Tenetur, perferendis.
+                        One of the essential pieces of the decor in a wedding will be the flowers and cake among other
+                        things. Susana´s wedding planner will be here to assist you in selecting and designing your
+                        event. From colors, flowers, flavors, our experts will love to guide you in the right direction
+                        to find the perfect wedding style for the perfect occasion.
                     </p>
                     <!-- <p>
                         The best moments captured in one single image
