@@ -11,7 +11,7 @@
 
 
         <?php
-        include("includes/preloader.php");
+        // include("includes/preloader.php");
         include("includes/header.php");
         include("modules/wedding4.php");
         include("includes/footer.php");

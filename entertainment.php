@@ -2,7 +2,7 @@
 <html lang="es">
 <?php
     include("includes/head.php");
-    $footer = "entre1.jpg";
+    $footer = "entre1.jpg?=1";
 ?>
 
 <body>
@@ -10,7 +10,7 @@
 
 
         <?php
-        include("includes/preloader.php");
+        // include("includes/preloader.php");
         include("includes/header.php");
         include("modules/entertaiment.php");
         include("includes/footer.php");
