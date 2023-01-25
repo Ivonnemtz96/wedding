@@ -346,7 +346,7 @@
                         <div class="col col-sm-6">
                             <input type="email" name="email" class="form-control" placeholder="Target Budget*">
                         </div>
-                        
+
                         <div class="col col-sm-12">
                             <input type="email" name="email" class="form-control" placeholder="Desired Venue*">
                         </div>
@@ -378,26 +378,30 @@
         <h2>Reviews</h2>
     </div>
     <div class="container">
+        <div class="container text-center" style="margin-top: 1.5rem; margin-bottom: 1.5rem;">
+            <img style="width: 5rem; margin-left: -40px;" src="/assets/images/review.jpg" alt="">
+        </div>
         <div class="grid-x grid-padding-x align-center">
             <div class="cell medium-9 small-12">
                 <div class="reviews-slider slider-nav">
+
                     <div class="sin-testiImage">
-                        <img src="https://s26.postimg.cc/bz6kq188p/rew1.jpg" alt="">
+                        <!-- <img style="width: 5rem;" src="/assets/images/review.jpg" alt=""> -->
                     </div>
                     <div class="sin-testiImage">
-                        <img src="https://s26.postimg.cc/cbxyw85y1/rew2.jpg">
+                        <!-- <img style="width: 5rem;" src="/assets/images/review.jpg"> -->
                     </div>
                     <div class="sin-testiImage">
-                        <img src="https://s26.postimg.cc/rxfag6a6h/rew3.jpg">
+                        <!-- <img style="width: 5rem;" src="/assets/images/review.jpg"> -->
                     </div>
                     <div class="sin-testiImage">
-                        <img src="https://s26.postimg.cc/bz6kq188p/rew1.jpg">
+                        <!-- <img style="width: 5rem;" src="/assets/images/review.jpg"> -->
                     </div>
                     <div class="sin-testiImage">
-                        <img src="https://s26.postimg.cc/cbxyw85y1/rew2.jpg">
+                        <!-- <img style="width: 5rem;" src="/assets/images/review.jpg"> -->
                     </div>
                     <div class="sin-testiImage">
-                        <img src="https://s26.postimg.cc/rxfag6a6h/rew3.jpg">
+                        <!-- <img style="width: 5rem;" src="/assets/images/review.jpg"> -->
                     </div>
                 </div>
             </div>
@@ -407,42 +411,42 @@
                     <div class="sin-testiText">
                         <h2 style="color: #000;font-family: 'Montserrat';">Briana Hosking </h2>
                         <p>
-                            The Catering to Cabo team is incredible! Book them now! They catered our wedding and a
+                            The Weddings at Cabo team is incredible! Book them now! They catered our wedding and a
                             family dinner the thursday before and everything all perfect. The food at the family dinner
                             was amazing; our family still raves about it. The level of service at both events was 100%,
                             some of the best we've ever had. They made sure that every need was met from making our
                             parents drinks on Thursday (not on the menu), bringing our guests at the wedding drinks on
                             the dance floor, and my favorite, dressing up glow sticks and individually handing them to
-                            out to all guests.
-                            <br>
-                            Susana from catering to Cabo was our wedding planner/coordinator and was AMAZING! She has
+                            out to all guests. <br>
+                            Susana from Weddings at Cabo was our wedding planner/coordinator and was AMAZING! She has
                             great taste and gave us great ideas/advice. I had a couple unique asks and she went above
                             and beyond to make them happen. On the day of the wedding, she made sure our vision was
+                            perfectly executed and we could enjoy a beautiful day and party.our vision was
                             perfectly executed and we could enjoy a beautiful day and party.
                         </p>
                     </div>
                     <div class="sin-testiText">
                         <h2 style="color: #000;font-family: 'Montserrat';">Leah O'Mara</h2>
                         <p>
-                            Catering to Cabo is an exceptional catering company with amazing people! We were fortunate
+                            Weddings at Cabo is an exceptional weddings company with amazing people! We were fortunate
                             to work with them to design our destination wedding day menu, bartending, and event planning
                             services, however due to the COVID-19 pandemic we needed to change plans to instead have a
                             smaller anniversary party 1 year later. Throughout the entire planning process, Susana and
                             Elmar’s teams were very flexible and service oriented. We started with over the phone
                             consultation, emailing, and then were able to meet in person for a catering tasting and
-                            vendor meeting at our rental condo while visiting San Jose del Cabo. We were sad when the US
-                            restrictions solidified our decision to change the location of our wedding, but knew that we
-                            absolutely still wanted to have a celebration that included Catering to Cabo and their other
-                            amazing vendor contacts. They were understanding and willing to work with us at a later date
-                            without any penalty which we really appreciated. We kept in contact with Susana and planned
-                            a 1 year anniversary dinner party at our venue the villa Casa Mariposa. Even though our
-                            event was scaled back from the original, we were met with warmth, professionalism, and level
-                            of service that makes you feel very special and like family. Beyond that, we enjoyed the
-                            most delicious food for our anniversary dinner: Filet Mignon and lobster for the main
-                            course. It truly was one of, if not the best meal I have ever enjoyed. Our personal chefs,
-                            bartender, and server ensured that we and our guests were taken care of the whole night.
-                            Without a doubt I highly recommend Catering to Cabo for your personal chef or event needs
-                            while in Los Cabos!
+                            vendor meeting at our rental condo while visiting San Jose del Cabo. <br><br>
+                            We were sad when the US restrictions solidified our decision to change the location of our
+                            wedding, but knew that we absolutely still wanted to have a celebration that included
+                            Weddings at Cabo and their other amazing vendor contacts. They were understanding and
+                            willing to work with us at a later date without any penalty which we really appreciated. We
+                            kept in contact with Susana and planned a 1 year anniversary dinner party at our venue the
+                            villa Casa Mariposa. Even though our event was scaled back from the original, we were met
+                            with warmth, professionalism, and level of service that makes you feel very special and like
+                            family. Beyond that, we enjoyed the most delicious food for our anniversary dinner: Filet
+                            Mignon and lobster for the main course. It truly was one of, if not the best meal I have
+                            ever enjoyed. Our personal chefs, bartender, and server ensured that we and our guests were
+                            taken care of the whole night. Without a doubt I highly recommend Weddings at Cabo for your
+                            personal chef or event needs while in Los Cabos!
                         </p>
                     </div>
                     <div class="sin-testiText">
@@ -463,50 +467,35 @@
                     <div class="sin-testiText">
                         <h2 style="color: #000;font-family: 'Montserrat';">Breana Simington </h2>
                         <p>
-                            My husband and I can not rave enough about the wonderful service Catering to Cabo provided.
+                            My husband and I can not rave enough about the wonderful service Weddings at Cabo provided.
                             We utilized them for our destination wedding, and they took care of our every need!
                             Susana Flores helped me organize and plan the wedding while I was miles away in California.
                             She was so meticulous and caring about my every wish and made my vision come to life. The
                             chef services were so incredible, we booked for our welcome dinner, wedding day, and Sunday
                             brunch! The entire staff really helped elevate our vacation and they were all a huge part in
-                            helping us create unforgettable memories. Thank you CTC!
+                            helping us create unforgettable memories. Thank you WAC!
                         </p>
                     </div>
                     <div class="sin-testiText">
-                        <h2 style="color: #000;font-family: 'Montserrat';">Steven Cox</h2>
+                        <h2 style="color: #000;font-family: 'Montserrat';">Liam Ladicicco</h2>
                         <p>
-                            I can't begin to tell you how amazing Susana and her team were! She made herself available
-                            for all of our questions and always got back to us so quickly.
-
-                            We had never been to the venue my wife and I chose for our wedding prior to our wedding
-                            weekend and Susana made all our nerves go away! Planning a wedding is stressful and planning
-                            a wedding somewhere you have never seen other than pictures is even harder. Susana made the
-                            whole process so easy!
-
-                            Susana and her team were so incredibly nice and were always available to help in any way
-                            they could. They are truly went above and beyond! They really made our wedding weekend
-                            unforgettable.
-
-                            Not only was the team and service amazing, but the food was out of this world! All the guest
-                            kept coming up to me commenting on how friendly everyone was and how awesome the food was.
-
-                            We will definitely be visiting Cabo again in the future and there is no question we will
-                            work with Susana and her team again!
+                            Absolutely incredible experience with Weddings at Cabo. Susana is incredible and truly made
+                            our wedding an unforgettable experience. The venue was beautiful, the food was outstanding,
+                            the staff was accommodating and friendly (truly some of the best service ever), and the
+                            attention to detail was evident throughout the entirety of the event. We cannot thank
+                            Weddings at Cabo enough for everything they did to make our extended weekend enjoyable for
+                            our family and friends. We still hear about how good the food was months later! Thank you!
                         </p>
                     </div>
                     <div class="sin-testiText">
-                        <h2 style="color: #000;font-family: 'Montserrat';">Amy Phillips</h2>
+                        <h2 style="color: #000;font-family: 'Montserrat';">Nicole McCord</h2>
                         <p>
-                            We had Catering to Cabo cater a meal to our house our first night in Cabo. Everything was
-                            set up when we arrived hot and ready to go with Margaritas chilling in the fridge! What a
-                            gift after traveling all day and pricing is comparable to going out. Our 3rd day in we had
-                            the chefs come to the house and prepare a meal for us. It was the best surf n turf we had on
-                            vacation. They brought everything with them, including ice for drinks. They served us drinks
-                            and apps on the patio and decorated our dining table with beautiful flowers for the dinner.
-                            Everything about this was terrific and again pricing is what you'd pay in a restaurant. When
-                            they left the dishes were done, kitchen was better then they found it AND they took the
-                            garbage with them! Super easy to work with, allowed us to make our own menus, friendly and
-                            so good.
+                            I can't say enough amazing things about Susana and Weddings at Cabo. The services they
+                            provided for us for our rehearsal day, our wedding, for catered breakfasts every day, and
+                            just everything in general was above and beyond. The food was INCREDIBLE. Everyone from our
+                            wedding is still talking about everything they ate the whole weekend. Susana went above and
+                            beyond, as did the Weddings at Cabo team. We look forward to returning to Cabo and using
+                            their services again!
                         </p>
                     </div>
                 </div>
