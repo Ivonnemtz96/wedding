@@ -2,6 +2,8 @@
 <html lang="es">
 <?php
     include("includes/head.php");
+    $footer = "footer-couple-pic.jpg";
+
 ?>
 
 <body>

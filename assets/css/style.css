@@ -3070,8 +3070,8 @@ img {
 }
 
 .footer-style-1 .couple-pic {
-  background: url("../images/footer-couple-pic-frame.png") center center/cover
-    no-repeat local;
+  /* background: url("../images/footer-couple-pic-frame.png") center center/cover
+    no-repeat local; */
   width: 511px;
   height: 470px;
   margin: 0 auto;

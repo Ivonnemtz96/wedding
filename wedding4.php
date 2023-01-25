@@ -2,6 +2,8 @@
 <html lang="es">
 <?php
     include("includes/head.php");
+    $footer = "tara1.jpg";
+
 ?>
 
 <body>

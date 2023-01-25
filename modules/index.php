@@ -65,7 +65,7 @@
                 <div class="couple-area">
                     <div class="couple-row clearfix">
                         <div class="img-holder">
-                            <img src="/assets/images/couple/img-1.jpg" alt>
+                            <img src="/assets/images/couple/img-1.jpg?=1" alt>
                         </div>
                         <div class="details">
                             <div class="inner">
@@ -312,7 +312,7 @@
                         </div>
 
                         <div class="col col-sm-6">
-                            <input type="text" name="name" class="form-control" placeholder="Fiance/Business name*">
+                            <input type="text" name="name" class="form-control" placeholder="Fiance's name*">
                         </div>
 
                         <div class="col col-sm-6">
@@ -327,8 +327,11 @@
                         <div class="col col-sm-6">
                             <select class="form-control" name="events">
                                 <option disabled selected>Type of event*</option>
-                                <option>Symbolic Wedding</option>
-                                <option>Legal Wedding</option>
+                                <option>Weddings</option>
+                                <option>Bachelorette Party</option>
+                                <option>Rehearsal Dinner </option>
+                                <option>Birthday Party </option>
+                                <option>Corporate/ Incentive </option>
                             </select>
                         </div>
 
@@ -341,14 +344,9 @@
                         </div>
 
                         <div class="col col-sm-6">
-                            <select class="form-control" name="events">
-                                <option disabled selected>Target Budget*</option>
-                                <option>$40,000 and over</option>
-                                <option>$30,000 and under</option>
-                                <option>$10,000 and under</option>
-                            </select>
+                            <input type="email" name="email" class="form-control" placeholder="Target Budget*">
                         </div>
-
+                        
                         <div class="col col-sm-12">
                             <input type="email" name="email" class="form-control" placeholder="Desired Venue*">
                         </div>

@@ -2,6 +2,8 @@
 <html lang="es">
 <?php
     include("includes/head.php");
+    $footer = "flowers1.jpg";
+
 ?>
 
 <body>
