@@ -48,11 +48,11 @@
 
                 <div id="demo" class="collapse" style="margin-top:2rem">
                     <div class="menu1">
-                        <a href="">Mexican Buffet</a>
+                        <a href="/Mexican_Buffet.pdf" >Mexican Buffet</a>
                     </div>
 
                     <div class="menu2" style="margin-top: 1.5rem;">
-                        <a href="">Premium Buffet</a>
+                        <a href="/Premium_Buffet.pdf">Premium Buffet</a>
                     </div>
                 </div>
             </div>
@@ -61,15 +61,15 @@
 
                 <div id="plated" class="collapse" style="margin-top:2rem">
                     <div class="menu1">
-                        <a href="">Menu 1</a>
+                        <a href="/Menu_1.pdf" >Menu 1</a>
                     </div>
 
                     <div class="menu2" style="margin-top: 1.5rem;">
-                        <a href="">Menu 2</a>
+                        <a href="/Menu_2.pdf" >Menu 2</a>
                     </div>
 
                     <div class="menu3" style="margin-top: 1.5rem;">
-                        <a href="">Menu 3</a>
+                        <a href="/Menu_3.pdf" >Menu 3</a>
                     </div>
                 </div>
             </div>
