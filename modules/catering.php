@@ -48,11 +48,11 @@
 
                 <div id="demo" class="collapse" style="margin-top:2rem">
                     <div class="menu1">
-                        <a href="">Menu Buffet Mexicano</a>
+                        <a href="">Mexican Buffet</a>
                     </div>
 
                     <div class="menu2" style="margin-top: 1.5rem;">
-                        <a href="">Menu 2 Buffet Mexicano</a>
+                        <a href="">Premium Buffet</a>
                     </div>
                 </div>
             </div>
@@ -66,6 +66,10 @@
 
                     <div class="menu2" style="margin-top: 1.5rem;">
                         <a href="">Menu 2</a>
+                    </div>
+
+                    <div class="menu3" style="margin-top: 1.5rem;">
+                        <a href="">Menu 3</a>
                     </div>
                 </div>
             </div>

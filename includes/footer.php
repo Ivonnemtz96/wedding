@@ -182,16 +182,14 @@
 
 
 <div class="whats-float">
-    <a href="https://wa.me/+526241378810?text=Hola%20me%20gustaría%20más%20información."
-    
-        target="_blank">
+    <a href="https://wa.me/+526241378810?text=Hola%20me%20gustaría%20más%20información." target="_blank">
         <i class="fa-brands fa-whatsapp"></i><span>WhatsApp<br><small>624 137 8810</small></span>
     </a>
 </div>
 
 <div class="insta-float">
     <a href="https://www.instagram.com/weddings_atcabo/" target="_blank">
-    <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@weddings_atcabo</small></span>
+        <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@weddings_atcabo</small></span>
     </a>
 </div>
 
@@ -206,16 +204,22 @@
     <div class="inner">
         <div class="couple-pic">
             <img src="/assets/images/<?echo $footer?>" alt>
+
         </div>
         <h2>Thank you</h2>
+        <div class="row" style="margin-bottom: 2rem;">
+            <div class="col-md-12">
+                <a href="/#contact" class="theme-btn" id="scroll">Contact Us</a>
+            </div>
+        </div>
         <ul class="social-links">
             <li><a href="https://www.facebook.com/weddingsatcabo"><i class="ti-facebook"></i></a></li>
             <!-- <li><a href="#"><i class="ti-twitter-alt"></i></a></li> -->
             <li><a href="https://www.instagram.com/weddings_atcabo/"><i class="ti-instagram"></i></a></li>
             <!-- <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
         </ul>
-        <p style="text-align: center; font-size: 15px;">Copyright 2023 <strong>Weddings at Cabo</strong>, Made with love by <a
-                target="_blank" href="https://bananagroup.mx"><strong>Banana Group Marketing</strong></a></p>
+        <p style="text-align: center; font-size: 15px;">Copyright 2023 <strong>Weddings at Cabo</strong>, Made with love
+            by <a target="_blank" href="https://bananagroup.mx"><strong>Banana Group Marketing</strong></a></p>
     </div>
 </footer>
 <!-- end site-footer -->
