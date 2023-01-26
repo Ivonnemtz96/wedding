@@ -67,21 +67,50 @@
                 <img src="/assets/images/detalles/7.webp" alt>
             </div>
             <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
-                <img src="/assets/images/detalles/8.webp" alt>
+                <img src="/assets/images/detalles/36.webp" alt>
+            </div>
+
+
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/37.webp" alt>
+            </div>
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/39.webp" alt>
+            </div>
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/38.webp" alt>
             </div>
 
             <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
                 <img src="/assets/images/detalles/9.webp" alt>
             </div>
             <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
-                <img src="/assets/images/detalles/10.webp" alt>
+                <img src="/assets/images/detalles/8.webp" alt>
             </div>
             <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
-                <img src="/assets/images/detalles/11.webp" alt>
+                <img src="/assets/images/detalles/40.webp" alt>
+            </div>
+
+           
+
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/42.webp" alt>
+            </div>
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/44.webp" alt>
+            </div>
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/43.webp" alt>
             </div>
 
             <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
                 <img src="/assets/images/detalles/12.webp" alt>
+            </div>
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/10.webp" alt>
+            </div>
+            <div class="col-md-4" style="margin-top: 2rem; margin-bottom: 2rem;">
+                <img src="/assets/images/detalles/11.webp" alt>
             </div>
         </div>
     </div> <!-- end container -->
