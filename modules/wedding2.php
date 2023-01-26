@@ -40,9 +40,10 @@
                         <p>
                             Sweet, kind and fun among many other qualities to describe how
                             incredibly beautiful human beings Sara and Steven are. Love working with
-                            them and their amazing families. Sara´s father created a beautiful
-                            ambiance with the flowers. He designed all the decor and even her
-                            bouquet was created by him. Don´t you love it?
+                            them and their amazing families. White, soft colors with green touches
+                            were part of their beautiful wedding ambiance created by Sara´s father. He
+                            designed all the decor and even her bouquet was created by him. Don´t
+                            you love it?.
                         </p>
                     </div>
                     <!-- end comments-area -->

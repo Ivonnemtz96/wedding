@@ -36,10 +36,10 @@
                         <p>
                             Loved working with this sweet and beautiful couple. Having the
                             opportunity to meet them before the wedding, we realized there was great
-                            chemistry from the beginning. They were not only beautiful outside, but
-                            beautiful inside too with a huge heart. Tara was looking for unique details
-                            and we achieved a perfect balance in the design and colors of her
-                            wedding. Truly a pleasure for me to work with them!
+                            chemistry. They were not only beautiful outside, but inside too with a huge
+                            heart. Tara was looking for unique details and we achieved a beautiful
+                            Romantic- Elegant wedding. It went just perfect with her personality and
+                            taste. It truly was a pleasure for me to work with them!
                         </p>
                     </div>
                 </div>

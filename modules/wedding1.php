@@ -1,6 +1,6 @@
 <!-- start page-title -->
 <section class="page-title">
-    <div class="page-title-container" style="background-image: url(/assets/images/gaby.jpg);">
+    <div class="page-title-container" style="background-image: url(/assets/images/gaby.jpg?=1);">
         <div class="page-title-wrapper">
             <div class="container">
                 <div class="row">
@@ -34,13 +34,14 @@
                     <div class="post format-standard-image">
                         <div class="entry-media">
 
-                        </div>                        
+                        </div>
                         <h2>GABY AND BRANDON</h2>
                         <p>
                             This couple was beautiful and beyond awesome!!! They put so much work
                             and dedication into their wedding that they achieved a very unique design.
                             Gaby was looking for a “non traditional” wedding and got inspired by a
-                            Brazilian themed wedding. Colors, food, dancing and so much fun!!
+                            Brazilian themed wedding. It was full of colors, food, dancing and lots of
+                            fun!!
                         </p>
                     </div>
                     <!-- <div class="container listas">
